@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Orc Server Main Page</title>
+        <link href='http://fonts.googleapis.com/css?family=Satisfy|Fjalla+One|Open+Sans:400,600,700' rel='stylesheet' type='text/css'/>
+        <link href="resources/css/mainPageStyle.css" rel="stylesheet" type="text/css" media="all" />
+        <!--        <h:outputstylesheet library="css" name="http://fonts.googleapis.com/css?family=Satisfy|Fjalla+One|Open+Sans:400,600,700"/>
+        <h:outputStylesheet library="css" name="style.css"/>-->
+    </h:head>
+    <h:body>
+
+        <div id="wrapper">
+            <div id="page" class="container">
+                <div id="content"> <a href="#" class="image-style"><img src="images/mcrm_logo.jpg" width="725" height="100" alt="" /></a>
+                    <div id="box1" class="post">
+                        <h2 class="title"><a href="#"><center>ORC Server Status Panel</center></a></h2>
+                        <!--box1 contains 2 status panel. 1 for the five TimerCheckers and 1 for the TRG Message-->
+
+<!--                        <p:dataTable id="checkerTable" var="checker" value="#{mainPageController.checkerModuleList}" 
+                                     rowStyleClass="#{checker.status =='ON' ? 'onRowStyle':'offRowStyle'}">
+                            <f:facet name="header">
+                                Volatility &amp; Yield Curve-updating Module Status
+                            </f:facet>
+                            <p:column headerText="Task Name">
+                                <h:outputText value="#{checker.name}"/>
+                            </p:column>
+                            <p:column headerText="Status">
+                                <h:outputText value="#{checker.status}"/>
+                            </p:column>
+                            <p:column headerText="Last Update">
+                                <h:outputText value="#{checker.lastUpdateDatetimeString}"/>
+                            </p:column>
+                        </p:dataTable>
+                        <br/><br/>
+                        <p:dataTable id="blotterTable" var="trg" value="#{mainPageController.blotterModuleList}" 
+                                     rowStyleClass="#{trg.status=='ON'?'onRowStyle':'offRowStyle'}" >
+                            <f:facet name="header">
+                                Blotter Module Status
+                            </f:facet>
+                            <p:column headerText="Task Name">
+                                <h:outputText value="#{trg.name}"/>
+                            </p:column>
+                            <p:column headerText="Status">
+                                <h:outputText value="#{trg.status}"/>
+                            </p:column>
+                            <p:column headerText="Last Update">
+                                <h:outputText value="#{trg.lastUpdateDatetimeString}"/>
+                            </p:column>
+                        </p:dataTable>-->
+                        &nbsp;&nbsp;
+                        <center><p:commandButton id="updateModules" value="Check Status" update="checkerTable,blotterTable" /></center>
+                    </div>     
+                    <div id="box2">
+                        <h2 class="subtitle">Functions:</h2>
+                        <ul class="style1">
+                            <li class="first">
+                                <h3><em><img src="images/query.png" alt="" width="130" height="130" class="alignleft border" /></em>TRADES QUERY</h3>
+                                <p>&nbsp;&nbsp;You can query trades within a date/time ranges by clicking on the link below. This link will redirect you to the web page where you can query trades.</p>
+                                <p><a href="tradeRangeGet.xhtml" class="button-style">GOTO Trades Query</a></p>
+                            </li>
+                            <li>
+                                <h3><em><img src="images/underConstruction.gif" alt="" width="130" height="130" class="alignleft border" /></em>Under construction!</h3>
+                                <p>Under construction!</p>
+                                <p><a href="#" class="button-style">Under construction!</a></p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="footer">
+                        <p>2013 Mitsui &amp; Co Commodity Risk Management Ltd. All rights reserved.</p>
+                        <!--                            <strong>MCRM-Orc Server</strong>, a state of the art system belongs to <a href="http://www.mcrm.com/">MCRM</a></p>-->
+                    </div>
+                </div>
+                <div id="sidebar">
+                    <div id="logo">
+                        <h1><a href="#">MCRM-Orc Server</a></h1>
+                    </div>
+                    <div id="menu" class="box">
+                        <ul>
+                            <li><a href="tradeRangeGet.xhtml" accesskey="1" title="">Trades Query</a></li>
+                            <li><a href="#" accesskey="2" title="">Our Clients</a></li>
+                            <li><a href="#" accesskey="3" title="">About Us</a></li>
+                            <li><a href="#" accesskey="4" title="">Careers</a></li>
+                            <li><a href="#" accesskey="5" title="">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix">&nbsp;</div>
+        </div>
+    </h:body>
+</html>

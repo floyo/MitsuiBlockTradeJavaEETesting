@@ -1,0 +1,1209 @@
+LN,Natural Gas European Options
+NN,Henry Hub Swap Futures
+LO,Crude Oil Options
+N9,PJM Western Hub Real-Time Off-Peak Calendar-Month 5 MW Futures
+CL,Crude Oil Futures
+V3,PJM AEP Dayton Hub Real-Time Off-Peak Calendar-Month 5 MW Futures
+NG,Natural Gas (Henry Hub) Physical Futures
+E4,PJM Western Hub Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+B6,PJM Northern Illinois Hub Real-Time Off-Peak Calendar-Month 5 MW Futures
+NP,Henry Hub Penultimate NP Futures
+K4,NYISO Zone A Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+D2,NYISO Zone G Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+AO,WTI Average Price Options
+L3,PJM Northern Illinois Hub Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+HH,Natural Gas (Henry Hub) Last-day Financial Futures
+H2,ISO New England Mass Hub Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+H4,MISO Indiana Hub (formerly Cinergy Hub) Real-Time Off-Peak Calendar-Month 5 MW Futures
+O1,ERCOT West 345 kV Hub 5 MW Off-Peak Futures
+R7,PJM AEP Dayton Hub Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+D4,NYISO Zone J Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+HO,NY Harbor ULSD Futures
+X1,PJM AECO Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+BA,Brent Crude Oil Average Price Options
+RB,RBOB Gasoline Physical Futures
+I6,ERCOT North 345 kV Hub 5 MW Off-Peak Futures
+WAY,WTI Crude Oil 1 Month Calendar Spread Options
+K2,MISO Indiana Hub (formerly Cinergy Hub) Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+ON,Natural Gas Options
+F2,PJM JCPL Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+CS,WTI Financial Futures
+OFM,Ontario Off-Peak Calendar-Month Futures
+L1,PJM Western Hub Peak Calendar-Month Real-Time LMP Futures
+HMO,MISO Michigan Hub 5 MW Off-Peak Calendar-Month Day-Ahead Futures
+U5,ISO New England Rhode Island Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+D9,PJM ComEd Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+7A,Light Sweet Crude Oil (WTI) Financial 1 Month Spread Options
+W6,PJM PSEG Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+BK,WTI-Brent Financial Futures
+6T,In Delivery Month European Union Allowance (EUA) Futures
+LCE,Light Sweet Crude Oil European Financial Option
+FTM,MISO Indiana Hub Real-Time Off-Peak Calendar-Month 5 MW Futures
+F5,PJM PPL Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+MTF,Coal (API2) CIF ARA (ARGUS-McCloskey) Futures
+BZ,Brent Crude Oil Financial Futures
+OS,Brent Crude Oil Last Day Options
+AT,NY Harbor ULSD Average Price Option
+4M,NYISO Zone F 5 MW Off-Peak Calendar-Month Day-Ahead LBMP Futures
+BV,WTI-Brent Crude Oil Spread Options
+OH,NY Harbor ULSD Option
+LT,Gulf Coast ULSD (Platts) Up-Down Futures
+Z9,PJM AEP Dayton Hub 5MW Peak Calendar-Month Real-Time LMP Futures
+P8,ISO New England North East Massachusetts Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+A3,NYISO Zone C 5 MW Off-Peak Calendar-Month Day-Ahead LBMP Futures
+J4,PJM Western Hub Day-Ahead Peak Calendar-Month 5 MW Futures  
+B3,PJM Northern Illinois Hub 5 MW Peak Calendar-Month Real-Time LMP Futures
+HP,Natural Gas (Henry Hub) Penultimate Financial Futures
+L9,ISO New England West Central Massachusetts Zone 5 MW Off-Peak Calendar-Month Day Ahead LMP Futures
+G4,Natural Gas (Henry Hub) Last-day Financial 1 Month Spread Options
+R3,PJM BGE Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+46,PJM METED Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+CU,Chicago Ethanol (Platts) Futures
+T3,NYISO Zone G Day-Ahead Peak Calendar-Month 5 MW Futures
+WJ,LLS (Argus) vs. WTI Financial Futures
+K3,NYISO Zone A Day-Ahead Peak Calendar-Month 5 MW Futures
+ME,Gulf Coast Jet (Platts) Up-Down Futures
+CY,Brent Financial Futures
+W4,PJM APS Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+7K,Gasoline Euro-bob Oxy NWE Barges (Argus) Crack Spread Futures
+MF,Gulf Coast No. 6 Fuel Oil 3.0% (Platts) Futures
+MFF,Coal (API4) FOB Richards Bay (ARGUS-McCloskey) Futures
+H3,MISO Indiana Hub (formerly Cinergy Hub) 5 Month Peak Calendar-Month Real-Time Futures
+OB,RBOB Gasoline Physical Options
+ZN,"SoCal Natural Gas (Platts IFERC) ""Pipe"" Option"
+E7,Natural Gas (Henry Hub) Last-day Financial Options
+GCU,Gulf Coast No. 6 Fuel Oil 3.0% (Platts) vs. European 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+WS,Crude Oil Financial Futures
+HK,NY Harbor ULSD Crack Spread Futures
+GZ,European Gasoil Brent Crack Spread Futures
+U6,ISO New England Mass Hub 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+BE,Brent Crude Oil European Financial Option
+FO,3.5% Fuel Oil Barges FOB Rdam (Platts) Crack Spread Futures
+G6,Natural Gas (Henry Hub) Last-day Financial 6 Month Spread Options
+D7,PJM AEP Dayton Hub Day-Ahead LMP Peak Calendar-Month 5 MW Futures
+PG,"Dominion, South Point Natural Gas (Platts IFERC) Basis Futures"
+N3,PJM Northern Illinois Hub Day-Ahead LMP Peak Calendar-Month 5 MW Futures
+GY,Gulf Coast ULSD (Platts) Crack Spread Futures
+PH,Panhandle Natural Gas (Platts IFERC) Basis Futures
+B0,Mont Belvieu LDH Propane (OPIS) Futures
+FDM,MISO Indiana Hub Day-Ahead Off-Peak Calendar-Month 5 MW Futures
+JM,PJM Western Hub Real-Time Peak Calendar-Month 2.5 MW Futures
+4P,PJM PECO Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+GL,"Columbia Gulf, Louisiana Natural Gas (Platts IFERC) Basis Futures"
+NL,NGPL Mid-Con Natural Gas (Platts IFERC) Basis Futures
+PD,NGPL TexOk Natural Gas (Platts IFERC) Basis Futures
+D3,NYISO Zone J Day-Ahead Peak Calendar-Month 5 MW Futures
+OPM,Ontario Peak Calendar-Month Futures
+BB,Brent Crude Oil Futures
+RL,RBOB Gasoline Financial Futures
+GA,Singapore Gasoil (Platts) vs. Gasoil Futures
+RA,RBOB Gasoline Average Price Options
+WCC,Canadian Heavy Crude Oil Index (Net Energy) Futures
+I5,ERCOT North 345 kV Hub 5 MW Peak Futures
+EN,European Naphtha (Platts) Crack Spread Futures
+RBB,RBOB Gasoline Brent Crack Spread Futures
+RV,Gulf Coast Unl 87 Gasoline M1 (Platts) vs. RBOB Gasoline Futures
+Y1,PJM AECO Zone Peak Calendar-Month Day-Ahead LMP Futures
+N1,ERCOT West 345 kV Hub 5 MW Peak Futures
+6J,Natural Gas Calendar Strip Options
+HA,NY Harbor ULSD vs. Gasoil Futures
+A6,Group Three ULSD (Platts) vs. NY Harbor ULSD Futures
+4H,Mont Belvieu LDH Propane (OPIS) Average Price Options
+D0,Mont Belvieu Normal Butane (OPIS) Futures
+H5,MISO Indiana Hub (formerly Cinergy Hub) Day-Ahead Peak Calendar-Month 5 MW Futures
+58,NYISO Zone E 5 MW Off-Peak Calendar-Month Day-Ahead LBMP Futures
+NE,"ANR, Oklahoma Natural Gas (Platts IFERC) Basis Futures"
+RM,RBOB Gasoline Crack Spread Futures
+HB,Henry Hub Natural Gas (Platts IFERC) Basis Futures
+1N,Singapore Mogas 92 Unleaded (Platts) Futures
+SG,Singapore Gasoil (Platts) Futures
+CVR,Chicago Ethanol (Platts) Average Price Options
+UV,European 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+ZR,"Rockies Natural Gas (Platts IFERC) ""Pipe"" Option"
+MTO,Coal (API 2) cif ARA (Argus/McCloskey) Options
+JP,PJM Off-Peak Calendar-Month LMP Futures
+CW,"PG&E Citygate Natural Gas (Platts IFERC) ""Pipe"" Option"
+FF,WTI Midland (Argus) vs. WTI Financial Futures
+G3,Natural Gas (Henry Hub) Last-day Financial 3 Month Spread Options
+KA,NYISO Zone A Peak LBMP Futures
+MP,NY Harbor ULSD Financial Futures
+MM,New York Harbor Residual Fuel 1.0% (Platts) Futures
+J2,PJM JCPL Zone Peak Calendar-Month Day-Ahead LMP Futures
+MEO,Mini Gasoline Euro-bob Oxy NWE Barges (Argus) Futures
+NR,Rockies Natural Gas (Platts IFERC) Basis Futures
+KS,Singapore Jet Kerosene (Platts) Futures
+4J,Mont Belvieu Ethane (OPIS) Average Price Options
+0D,Mini European 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+QP,Powder River Basin Coal (Platts OTC Broker Index) Futures
+NX,Texas Eastern Zone M-3 Natural Gas (Platts IFERC) Basis Futures
+U3,ISO New England New Hampshire Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+RK,Singapore Jet Kerosene (Platts) vs. Gasoil (Platts) Futures
+C0,Mont Belvieu Ethane (OPIS) Futures
+TZ6,Transco Zone 6 Non-N.Y. Natural Gas (Platts IFERC) Basis Futures
+QX,Eastern Rail Delivery CSX Coal Futures
+5Z,"Columbia Gulf, Mainline Natural Gas (Platts IFERC) Basis Futures"
+IN,Henry Hub Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+U4,ISO New England Rhode Island Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+CZ,Transco Zone 3 Natural Gas (Platts IFERC) Basis Futures
+YX,Mars (Argus) vs. WTI Financial Futures
+CI,CIG Rockies Natural Gas (Platts IFERC) Basis Futures
+LY,Gulf Coast ULSD (Platts) Futures
+E8,PJM DPL Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+BY,WTI-Brent Bullet Futures
+FY,Dated Brent (Platts) to Frontline Brent Futures
+UB,Dated Brent (Platts) Financial Futures
+PTM,MISO Indiana Hub Real-Time Peak Calendar-Month 5 MW Futures
+L5,PJM PPL Zone Peak Calendar-Month Day-Ahead LMP Futures
+7H,Gasoline Euro-bob Oxy NWE Barges (Argus) Futures
+D8,PJM ComEd Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+KJ,NYISO Zone J Peak LBMP Futures
+NK,Sumas Natural Gas (Platts IFERC) Basis Futures
+VR,NY 1% Fuel Oil (Platts) vs. Gulf Coast 3% Fuel Oil (Platts) Futures
+NH,Houston Ship Channel Natural Gas (Platts IFERC) Basis Futures
+7Q,Mont Belvieu Natural Gasoline (OPIS) Futures
+MTS,Mini Singapore Fuel Oil 380 cst (Platts) Futures
+L6,PJM PSEG Zone Peak Calendar-Month Day-Ahead LMP 5 MW Futures
+GVR,Gulf Coast Jet Fuel (Platts) Average Price Options
+B4,Algonquin City-Gates Natural Gas (Platts IFERC) Basis Futures
+VM,PJM AEP Dayton Hub Real-Time Peak Calendar-Month 2.5 MW Futures
+VP,PJM AEP Dayton Hub Off-Peak LMP Futures
+UA,Singapore Fuel Oil 180 cst (Platts) Futures
+MG,Gulf Coast No. 6 Fuel Oil (Platts) Crack Spread Futures
+KG,NYISO Zone G Peak LBMP Futures
+SE,Singapore Fuel Oil 380 cst (Platts) Futures
+Q6,European 3.5% Fuel Oil Barges FOB Rdam (Platts) Average Price Option
+HOB,NY Harbor ULSD Brent Crack Spread Futures
+NI,ISO New England Mass Hub Day-Ahead Peak Calendar-Month 2.5 MW Futures
+EH,Ethanol Futures
+HMW,MISO Michigan Hub 5 MW Peak Calendar-Month Day-Ahead Futures
+TR,Transco Zone 4 Natural Gas (Platts IFERC) Basis Futures
+MNC,Mini European Naphtha CIF NWE (Platts) Futures
+NW,Waha Natural Gas (Platts IFERC) Basis Futures
+NS,SoCal Natural Gas (Platts IFERC) Basis Futures
+6O,PJM Electricity Option on Calendar Futures Strip Options
+E3,PJM BGE Zone Peak Calendar-Month Day-Ahead LMP Futures
+QM,E-mini Crude Oil Futures
+DC,Dubai Crude Oil (Platts) Financial Futures
+P3,ISO New England Connecticut Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+P5,ISO New England South East Massachusetts Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+N9P,PJM West Hub RT Real-Time 50 MW Off-Peak Options
+E5,Argus LLS vs. WTI (Argus) Trade Month Futures
+FH,WTS (Argus) vs. WTI Trade Month Futures
+1NB,Singapore Mogas 92 Unleaded (Platts) Brent Crack Spread Futures
+UO,PJM Northern Illinois Hub Off-Peak LMP Futures
+DBP,Dated Brent (Platts) Average Price Option
+KB,NYISO Zone A Off-Peak LBMP Futures
+D6,PJM Duquesne Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+KI,ISO New England Monthly Off Peak LMP Swap Future
+SZ,"Southern Natural, Louisiana Natural Gas (Platts IFERC) Basis Futures"
+TC,Columbia Gas TCO (Platts IFERC) Basis Futures
+FI,1% Fuel Oil Cargoes FOB NWE (Platts) Crack Spread Futures
+4L,NYISO Zone F 5 MW Peak Calendar-Month Day-Ahead LBMP Futures
+1U,NY Jet Fuel (Platts) vs. NY Harbor ULSD Futures
+FS,1% Fuel Oil Cargoes FOB NWE (Platts) vs. 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+QL,Coal Futures
+A5,EIA Flat Tax On-Highway Diesel Futures
+XN,SoCal Natural Gas (Platts IFERC) Fixed Price Futures
+Q5,NYISO Zone C 5 MW Peak Calendar-Month Day-Ahead LBMP Futures
+7Y,NY ULSD (Argus) vs. NY Harbor ULSD Futures
+1L,Gulf Coast ULSD (Platts) Up-Down BALMO Futures
+8K,Conway Propane (OPIS) Futures
+P7,ISO New England North East Massachusetts Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+0F,Mini Singapore Fuel Oil 180 cst (Platts) Futures
+R6,ISO New England West Central Massachusetts Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+1M,Gulf Coast Jet (Platts) Up-Down BALMO Futures
+GCI,Gulf Coast No.6 Fuel Oil 3.0% (Platts) Brent Crack Spread Futures
+YH,NY Heating Oil (Platts) vs. NY Harbor ULSD Futures
+A8,Group Three Sub-octane Gasoline (Platts) vs. RBOB Futures
+EW,East-West Fuel Oil Spread (Platts) Futures
+MJN,Mini Japan C&F Naphtha (Platts) Futures
+EM,MISO Indiana Hub (formerly Cinergy Hub) Real-Time Peak Calendar-Month 2.5 MW Futures
+UM,PJM Northern Illinois Hub Real-Time Peak Calendar-Month 2.5 MW Futures
+MOD,PJM ATSI Zone 5 MW Off-Peak Calendar-Month Day-Ahead Futures
+DB,Brent Crude Oil vs. Dubai Crude Oil (Platts) Futures
+QG,E-mini Natural Gas Futures
+LB,NY Harbor ULSD European Financial Option
+47,PJM METED Zone Peak Calendar-Month Day-Ahead LMP Futures
+N2,Singapore Jet Kerosene (Platts) Average Price Options
+FA,NY Harbor ULSD Calendar Spread Option - 1 Month
+NYF,NY Fuel Oil 1.0% (Platts) vs. European 1% Fuel Oil Cargoes FOB NWE (Platts) Futures
+PJ,"San Juan Natural Gas (Platts IFERC) ""Pipe"" Option"
+KH,NYISO Zone G Off-Peak LBMP Futures
+Z1,Ethanol T2 FOB Rdam Including Duty (Platts) Futures
+NZ,Transco Zone 6 Natural Gas (Platts IFERC) Basis Futures
+9F,"Texas Gas, Zone 1 Natural Gas (Platts IFERC) Basis Futures"
+MSG,Mini Singapore Gasoil (Platts) Futures
+EZ,NY Ethanol (Platts) Futures
+UN,European Naphtha Cargoes CIF NWE (Platts) Futures
+EJ,MISO Indiana Hub (formerly Cinergy Hub) Off-Peak LMP Futures
+SSI,Coal (API 8) cfr South China (Argus/McCloskey) Futures
+8X,"OneOk, Oklahoma Natural Gas (Platts IFERC) Basis Futures"
+S4,PJM APS Zone Peak Calendar-Month Day-Ahead LMP Futures
+SD,Singapore Fuel Oil 180 cst (Platts) vs. 380 cst (Platts) Futures
+Y7,Tennessee 500 Leg Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+PF,Ventura Natural Gas (Platts IFERC) Basis Futures
+GE,Gulf Coast Jet Fuel (Platts) Futures
+NF,MichCon Natural Gas (Platts IFERC) Basis Futures
+L4,Tennessee 800 Leg Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+MNB,Mont Belvieu Normal Butane LDH (OPIS) Futures
+NJ,San Juan Natural Gas (Platts IFERC) Basis Futures
+5C,Chicago ULSD (Platts) vs. NY Harbor ULSD Futures
+VZ,Gulf Coast 3.0% Fuel Oil (Platts) BALMO Futures
+MBE,Mont Belvieu Spot Ethylene In-Well Futures
+1R,Propane Non-LDH Mont Belvieu (OPIS) Futures
+MCC,Indonesian Coal (McCloskey sub-bituminous) Futures
+EXR,"RBOB Gasoline vs. Euro-bob Oxy NWE Barges (Argus) (350,000 gallons) Futures"
+PML,PJM 50 MW Calendar-Month LMP Option  
+3U,European Gasoil Brent Crack Spread Average Price Option
+BOB,3.5% Fuel Oil Barges FOB Rdam (Platts) Crack Spread (1000mt) Futures
+RPF,Powder River Basin Coal (Platts OTC Broker Index) Options
+8Z,"Southern Star, Tx.-Okla.-Kan. Natural Gas (Platts IFERC) Basis Futures"
+RU,Gulf Coast Unl 87 Gasoline M1 (Platts) Crack Spread Futures
+JS,Los Angeles Jet (OPIS) vs. NY Harbor ULSD Futures
+4K,Mont Belvieu Normal Butane (OPIS) Average Price Options
+PDM,MISO Indiana Hub Day-Ahead Peak Calendar-Month 5 MW Futures
+MBN,Mont Belvieu Ethylene (PCW) Financial Futures
+JO,PJM Calendar-Month LMP Option
+71,Ethanol Forward Month Futures
+4N,PJM PECO Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+FP,"Florida Gas, Zone 3 Natural Gas (Platts IFERC) Basis Futures"
+KL,Los Angeles CARB Diesel (OPIS) vs. NY Harbor ULSD Futures
+FK,3.5% Fuel Oil Cargoes FOB MED (Platts) vs. 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+8I,Mont Belvieu Iso-Butane (OPIS) Futures
+SP,Singapore Naphtha (Platts) Futures
+WQ,Gasoil 0.1 Barges FOB Rdam (Platts) vs. Gasoil Futures
+JA,Japan C&F Naphtha (Platts) Futures
+EVC,Singapore Fuel Oil 380 cst (Platts) vs. European 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+KK,NYISO Zone J Off-Peak LBMP Futures
+PC,PG&E Citygate Natural Gas (Platts IFERC) Basis Futures
+XA,LLS (Argus) Financial Futures
+MXR,Mini RBOB Gasoline vs. Gasoline Euro-bob Oxy NWE Barges (Argus) BALMO Futures
+FBT,FAME 0 Biodiesel FOB Rdam (Argus) (RED Compliant) vs. Gasoil Futures
+ET,European Diesel 10 ppm Barges FOB Rdam (Platts) vs. Gasoil Futures
+WM,WTI Crude Oil 6 Month Physical Spread Option
+KSD,Singapore Jet Kerosene (Platts) Dubai (Platts) Crack Spread Futures
+8O,Mont Belvieu LDH Propane (OPIS) BALMO Futures
+7G,Dated Brent (Platts) Daily Futures
+MJC,Mini European Jet Kero Cargoes CIF NWE (Platts) vs. Gasoil Futures
+6Z,Tennessee 800 Leg Natural Gas (Platts IFERC) Basis Futures
+FOC,NY 3.0% Fuel Oil (Platts) vs. Gulf Coast No. 6 Fuel Oil 3.0% (Platts) Futures
+MFO,Coal (API 4) fob Richards Bay (Argus/McCloskey) Options
+PGP,PGP Polymer Grade Propylene (PCW) Financial Futures
+SN,Henry Hub Natural Gas (Platts Gas Daily) Swing Futures
+JL,Los Angeles CARBOB Gasoline (OPIS) vs. RBOB Gasoline Futures
+GX,European Gasoil Financial Futures
+MEN,Mini European Naphtha (Platts) BALMO Futures
+JC,Jet Cargoes CIF NWE (Platts) vs. Gasoil Futures
+UT,Gulf Coast No. 2 (Platts) Up-Down Financial Futures
+55,NYISO Zone E 5 MW Peak Calendar-Month Day-Ahead LBMP Futures
+PS,European Propane CIF ARA (Argus) Futures
+P2,ISO New England Connecticut Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+MGN,Mini ULSD 10ppm Cargoes CIF NWE (Platts) vs. Gasoil Futures
+TP,ULSD 10ppm Cargoes CIF NWE (Platts) vs. Gasoil Futures
+QA,Gasoil Mini Financial Futures
+1D,RBOB Gasoline BALMO Futures
+9N,Argus Propane (Saudi Aramco) Futures
+UF,European 1% Fuel Oil Cargoes FOB NWE (Platts) Futures
+MQ,Los Angeles Jet Fuel (Platts) vs. NY Harbor ULSD Futures
+H1,NY 3.0% Fuel Oil (Platts) Futures
+BFR,RME Biodiesel FOB Rdam (Argus) (RED Compliant) vs. Gasoil Futures
+CLA,Coal (API 2) cif ARA (Argus/McCloskey) Calendar Option
+D44,D4 Biodiesel RINS (Argus) 2014 Futures
+EFB,European 1% Fuel Oil Barges FOB Rdam (Platts) Average Price Option
+R8,PJM PEPCO Zone Peak Calendar-Month Day-Ahead LMP 5 MW Futures
+NRS,NYISO Rest of the State Capacity Calendar-Month Futures
+MBL,Mont Belvieu LDH Iso-Butane (OPIS) Futures
+ENS,European 1% Fuel Oil Cargoes FOB MED vs. European 1% Fuel Oil Cargoes FOB NWE Spread (Platts) Futures
+A7,Group Three ULSD (Platts) Futures
+CIL,Canadian Light Sweet Oil (Net Energy) Index Futures
+V0,Singapore Mogas 95 Unleaded (Platts) Futures
+NOB,Naphtha Cargoes CIF NWE (Platts) Crack Spread (1000mt) Futures
+C5,Singapore Fuel Oil 180 cst (Platts) Average Price Options
+J9,Brent Crude Oil BALMO Futures
+33,1% Fuel Oil Rdam (Platts) vs. 1% Fuel Oil NWE (Platts) Futures
+RT,RBOB Gasoline Bullet Futures
+U2,ISO New England New Hampshire Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+0B,Mini European 1% Fuel Oil Cargoes FOB NWE (Platts) Futures
+ULB,NY ULSD (Argus) vs. NY Harbor ULSD BALMO Futures
+3G,Premium Unleaded Gasoline 10 ppm FOB MED (Platts) Futures
+8H,Singapore Fuel Oil 380 cst (Platts) Average Price Options
+6K,Central Appalachian Coal Quarterly Strip Options
+CPR,Conway Propane (OPIS) Average Price Options
+NNC,NYISO NYC In-City Capacity Calendar-Month Futures
+1K,Gulf Coast Unl 87 (Platts) Up-Down BALMO Futures
+GOC,Gasoil Crack Spread (1000mt) Financial Futures 
+MUD,Mini European Diesel 10 ppm Barges FOB Rdam (Platts) vs. Gasoil Futures
+YV,Mars (Argus) vs. WTI Trade Month Futures
+L2,"Columbia Gulf, Mainline Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+TX,TETCO STX Natural Gas (Platts IFERC) Basis Futures
+VU,Singapore Gasoil (Platts) BALMO Futures
+L8,PJM DPL Zone Peak Calendar-Month Day-Ahead LMP Futures
+4S,PJM Western Hub 50 MW Peak Calendar-Month Real-Time LMP Futures
+Z5,Gasoil 0.1 Cargoes CIF MED (Platts) vs. Gasoil Futures
+MEB,Mini Gasoline Euro-bob Oxy NWE Barges (Argus) BALMO Futures
+R0,Mont Belvieu Natural Gasoline (OPIS) BALMO Futures
+7I,Gasoline Euro-bob Oxy NWE Barges (Argus) Crack Spread BALMO Futures
+STZ,Singapore Gasoil 10 ppm (Platts) vs. Singapore Gasoil (Platts) Futures
+MXB,Mini RBOB Gasoline vs. Gasoline Euro-bob Oxy NWE Barges (Argus) Futures
+STS,Singapore Fuel Oil 180 cst (Platts) 6.35 Dubai (Platts) Crack Spread Futures
+7R,Gasoline Euro-bob Oxy NWE Barges (Argus) BALMO Futures
+RBF,RME Biodiesel FOB Rdam (Argus) (RED Compliant) Futures
+UH,European 1% Fuel Oil Barges FOB Rdam (Platts) Futures
+GCB,Gulf Coast No. 6 Fuel Oil 3.0% (Platts) vs. European 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+PM,Permian Natural Gas (Platts IFERC) Basis Futures
+RMK,Tokyo Bay Kerosene (RIM) Futures
+8J,Mont Belvieu Normal Butane (OPIS) BALMO Futures
+EPN,European Propane CIF ARA (Argus) vs. Naphtha Cargoes CIF NWE (Platts) Futures
+D64,D6 Ethanol RINS (Argus) 2014 Futures
+VV,Gulf Coast ULSD (Platts) vs. Gulf Coast Jet (Platts) Futures
+RH,RBOB Gasoline vs. NY Harbor ULSD Futures
+F7,Gasoil Average Price Options
+RF,RBOB Gasoline European Financial Option
+P4,ISO New England South East Massachusetts Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+IX,TETCO M-3 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IT,Transco Zone 6 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+CPL,Certified Emission Reduction Plus (CERplus) Futures
+1G,NY Harbor ULSD BALMO Futures
+OE,ISO New England Peak Calendar-Month LMP Option
+CPF,CSX Coal (Platts OTC Broker Index) Options
+Z7,ULSD 10ppm CIF MED (Platts) vs. Gasoil Futures
+BX,Singapore Jet Kerosene (Platts) BALMO Futures
+D5,PJM Duquesne Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+KZ,European Naphtha (Platts) BALMO Futures
+7E,Argus Propane Far East Index Futures
+PW,CenterPoint Natural Gas (Platts IFERC) Basis Futures
+AOR,PJM AEP Dayton Hub Real-Time Off-Peak Calendar-Day 5 MW Futures
+1P,Singapore Mogas 92 Unleaded (Platts) BALMO Futures
+3C,Chicago Unleaded Gasoline (Platts) vs. RBOB Gasoline Futures
+IBE,Brent (Euro Denominated) Financial Futures
+43,European Naphtha (Platts) Crack Spread BALMO Futures
+NM,Tennessee 500 Leg Natural Gas (Platts IFERC) Basis Futures
+FCB,3.5% Fuel Oil Barges FOB Rdam (Platts) Crack Spread BALMO Futures
+X0,Singapore Mogas 97 Unleaded (Platts) Futures
+VK,New York Harbor 1.0% Fuel Oil (Platts) BALMO Futures
+MTB,Mini Singapore Fuel Oil 380 cst (Platts) BALMO Futures
+MPD,PJM ATSI Zone 5 MW Peak Calendar-Month Day-Ahead Futures
+TZI,Transco Zone 6 Non-N.Y. Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+DBB,Dated Brent (Platts) BALMO Futures
+UJ,European Jet Kerosene Cargoes CIF NWE (Platts) Futures
+UI,European 3.5% Fuel Oil Cargoes FOB MED (Platts) Futures
+ACM,Coal (API 5) fob Newcastle (Argus/McCloskey) Futures
+EFM,European 1% Fuel Oil Cargoes FOB MED (Platts) Futures
+RVG,Gulf Coast Unl 87 Gasoline M2 (Platts) vs. RBOB Gasoline Futures
+CBA,Gulf Coast CBOB Gasoline A1 (Platts) vs. RBOB Gasoline Futures
+LX,Los Angeles CARB Diesel (OPIS) Futures
+E6,Japan C&F Naphtha (Platts) BALMO Futures
+T0,Mini European 1% Fuel Oil Barges FOB Rdam (Platts) Futures
+MMF,Mini 3.5% Fuel Oil Cargoes FOB MED (Platts) Financial Futures
+OEM,MISO Indiana Hub (formerly Cinergy Hub) Peak Calendar Strip Options
+HPE,HDPE High Density Polyethylene (PCW) Financial Futures
+KR,European 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+8L,Conway Natural Gasoline (OPIS) Futures
+30,European Jet Kerosene Cargoes CIF NWE (Platts) Average Price Option
+BT,Singapore Fuel Oil 380 cst (Platts) BALMO Futures
+CQA,Coal (API 2) cif ARA (Argus/McCloskey) Quarterly Option
+KU,Singapore Naphtha (Platts) BALMO Futures
+ML,New York Harbor Residual Fuel (Platts) Crack Spread Futures
+6W,Brent CFD: Dated Brent (Platts) vs. Brent Second Month (Platts) Daily Futures
+FL,3.5% Fuel Oil Cargoes FOB MED (Platts) Crack Spread Futures
+EWN,East-West Naphtha: Japan C&F vs. Cargoes CIF NWE Spread (Platts) Futures
+7L,Premium Unleaded Gasoline 10 ppm Barges FOB Rdam (Platts) Futures
+XR,Rockies Natural Gas (Platts IFERC) Fixed Price Futures
+GS,Gulf Coast Unl 87 Gasoline M1 (Platts) Futures
+TU,Gasoil 0.1 Cargoes CIF NWE (Platts) vs. Gasoil Futures
+8G,Premium Unleaded Gasoline 10 ppm FOB MED (Platts) BALMO Futures
+32,European Propane CIF ARA (Argus) BALMO Futures
+CRB,Gulf Coast CBOB Gasoline A2 (Platts) vs. RBOB Gasoline Futures
+BS,Singapore Fuel Oil 180 cst (Platts) BALMO Futures
+SFC,Singapore Fuel Oil 180 cst (Platts) Brent Crack Spread Futures
+M2,Singapore Gasoil (Platts) Average Price Options
+CPB,Conway Propane (OPIS) BALMO Futures
+BH,NY Harbor ULSD Bullet Futures
+1V,Jet Aviation Fuel Cargoes FOB MED (Platts) vs. Gasoil Futures
+1W,1% Fuel Oil Cargoes CIF MED (Platts) Futures
+8M,Conway Normal Butane (OPIS) Futures
+FVB,1.0% Fuel Oil Cargoes FOB NWE (Platts) Crack Spread (1000mt) Futures
+MFD,Mini 1% Fuel Oil Cargoes FOB MED (Platts) Futures
+TM,Freight Route TC2 (Baltic) Futures
+91,Argus Propane Far East Index vs. European Propane CIF ARA (Argus) Futures
+4D,Natural Gas Summer Strip Options
+TH,Freight Route TC5 (Platts) Futures
+Y3,NY 2.2% Fuel Oil (Platts) Futures
+0E,Mini European 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+RI,NY RBOB (Platts) vs. RBOB Gasoline Futures
+UCM,Mini ULSD 10ppm Cargoes CIF MED (Platts) vs. Gasoil Futures
+RLA,Coal (API 4) fob Richards Bay (Argus/McCloskey) Calendar Option
+G5,Natural Gas (Henry Hub) Last-day Financial 5 Month Spread Option
+MAS,Mini Argus Propane (Saudi Aramco) Futures
+6F,Crude Oil Calendar Strip Options
+63,3.5% Fuel Oil Cargoes FOB MED (Platts) vs. 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+GFC,Gulf Coast No. 6 Fuel Oil (Platts) Crack Spread BALMO Futures
+4C,Chicago ULSD (Platts) Futures
+E6M,Mini Japan C&F Naphtha (Platts) BALMO Futures
+BI,Dubai Crude Oil (Platts) BALMO Futures
+42,WTI BALMO Futures
+EOB,Argus Gasoline Eurobob Oxy Barges NWE Crack Spread (1000mt) Futures
+KX,European 1% Fuel Oil Cargoes FOB NWE (Platts) BALMO Futures
+1X,1% Fuel Oil Cargoes CIF NWE (Platts) Futures
+1T,Jet Aviation Fuel Cargoes FOB MED (Platts) Futures
+JE,EIA Flat Tax U.S. Retail Gasoline Futures
+OPD,Ontario Peak Calendar-Day Futures
+MBB,Mont Belvieu Ethylene (PCW) BALMO Futures
+5L,Mini Singapore Fuel Oil 180 cst (Platts) BALMO Futures
+UY,NY ULSD (Platts) vs. NY Harbor ULSD Futures
+3V,ULSD 10ppm Cargoes CIF NWE (Platts) vs. Gasoil BALMO Futures
+7P,EuroBob Gasoline 10 ppm Barges FOB Rdam (Platts) Futures
+0C,Mini European 1% Fuel Oil Cargoes FOB NWE (Platts) BALMO Futures
+STR,Singapore Fuel Oil 180 cst (Platts) 6.35 Brent Crack Spread Futures
+PPP,PP Polypropylene (PCW) Financial Futures
+PWP,PJM Western Hub Day-Ahead Peak Calendar-Day 5 MW Futures
+FBD,FAME 0 Biodiesel FOB Rdam (Argus) (RED Compliant) Futures
+8C,Mont Belvieu Ethane (OPIS) BALMO Futures
+LSU,ULSD 10ppm Cargoes CIF NWE (Platts) vs. Low Sulphur Gasoil Futures
+6V,Gasoil 0.1 Barges FOB Rdam (Platts) vs. Gasoil BALMO Futures
+STF,Singapore Gasoil 10 ppm (Platts) Futures
+88,1% Fuel Oil Cargoes FOB NWE (Platts) vs. 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+MAE,Mini Argus Propane Far East Index Futures
+VD,PJM AEP Dayton Hub Real-Time Peak Calendar-Day 5 MW Futures
+JD,PJM Western Hub Real-Time Peak Calendar-Day 5 MW Futures
+LSE,European Diesel 10ppm Barges FOB Rdam (Platts) vs. Low Sulphur Gasoil Futures
+4G,Premium Unleaded Gasoline 10 ppm Cargoes CIF NWE (Platts) Futures
+MGB,Mini Gasoil 0.1 Barges FOB Rdam (Platts) vs. Gasoil Futures
+VL,Gasoil 0.1 Barges FOB Rdam (Platts) Futures
+BG,European Gasoil Bullet Futures
+TW,Gasoil 0.1 Cargoes CIF NWE (Platts) Futures
+QH,E-mini NY Harbor ULSD Futures
+7X,Diesel 10ppm Barges FOB Rdam (Platts) vs. Gasoil BALMO Futures
+TY,ULSD 10ppm Cargoes CIF NWE (Platts) Futures
+22,Argus Propane Far East Index BALMO Futures
+GT,European Diesel 10 ppm Barges FOB Rdam (Platts) Futures
+QU,E-mini RBOB Gasoline Futures
+NCL,Coal (API 6) fob Newcastle (ARGUS-McCloskey) Futures
+MC6,"Indonesian Coal (McCloskey sub-bituminous 6,000 kcal basis) Futures"
+FRS,Freight Route TC12 (Baltic) Futures
+TJ,Freight Route TC4 (Platts) Futures
+FRC,Freight Route TC14 (Baltic) Futures
+TC6,Freight Route TC6 (Baltic) Futures
+TI,Freight Route TD5 (Baltic) Futures
+TL,Freight Route TD3 (Baltic) Futures
+TK,Freight Route TD7 (Baltic) Futures
+HFT,Handysize Timecharter Average (Baltic) Futures
+SFT,Supramax Timecharter Average (Baltic) Futures
+PFU,Panamax Timecharter Average (Baltic) Futures
+CFU,Capesize Timecharter Average (Baltic) Futures
+OX,NGPL TexOk Natural Gas (Platts Gas Daily) Swing Futures
+SL,Permian Natural Gas (Platts Gas Daily) Swing Futures
+TZS,Transco Zone 6 Non-N.Y. Natural Gas (Platts Gas Daily) Swing Futures
+SU,Sumas Natural Gas (Platts Gas Daily) Swing Futures
+K9,"Texas Eastern, ELA Natural Gas (Platts Gas Daily) Swing Futures"
+J8,"Florida Gas, Zone 3 Natural Gas (Platts Gas Daily) Swing Futures"
+T4,Tennessee Zone 0 Natural Gas (Platts Gas Daily) Swing Futures
+SQ,"ANR, Oklahoma Natural Gas (Platts Gas Daily) Swing Futures"
+W9,Malin Natural Gas (Platts Gas Daily) Swing Futures
+K6,"ANR, Louisiana Natural Gas (Platts Gas Daily) Swing Futures"
+J7,"Texas Gas, Zone SL Natural Gas (Platts Gas Daily) Swing Futures"
+SH,"Dominion, South Point Natural Gas (Platts Gas Daily) Swing Futures"
+SJ,San Juan Natural Gas (Platts Gas Daily) Swing Futures
+SF,SoCal Natural Gas (Platts Gas Daily) Swing Futures
+T8,MichCon Natural Gas (Platts Gas Daily) Swing Futures
+U8,CIG Rockies Natural Gas (Platts Gas Daily) Swing Futures
+VX,CenterPoint Natural Gas (Platts Gas Daily) Swing Futures
+T2,TETCO STX Natural Gas (Platts Gas Daily) Swing Futures
+SK,PG&E Citygate Natural Gas (Platts Gas Daily) Swing Futures
+SS,Chicago Natural Gas (Platts Gas Daily) Swing Futures
+SV,Panhandle Natural Gas (Platts Gas Daily) Swing Futures
+X2,"Columbia Gulf, Mainline Natural Gas (Platts Gas Daily) Swing Futures"
+PX,NGPL Mid-Con Natural Gas (Platts Gas Daily) Swing Futures
+A1,Columbia Gas TCO (Platts Gas Daily) Swing Futures
+W5,Tennessee 800 Leg Natural Gas (Platts Gas Daily) Swing Futures
+K8,"Southern Natural, Louisiana Natural Gas (Platts Gas Daily) Swing Futures"
+T7,Tennessee 500 Leg Natural Gas (Platts Gas Daily) Swing Futures
+T6,Transco Zone 3 Natural Gas (Platts Gas Daily) Swing Futures
+T9,SoCal City-Gate Natural Gas (Platts Gas Daily) Swing Futures
+X4,Transco Zone 1 Natural Gas (Platts Gas Daily) Swing Futures
+SY,Waha Natural Gas (Platts Gas Daily) Swing Futures
+J6,"Columbia Gulf, Louisiana Natural Gas (Platts Gas Daily) Swing Futures"
+J3,Transco Zone 4 Natural Gas (Platts Gas Daily) Swing Futures
+TZ5,Transco Zone 5 Natural Gas (Platts Gas Daily) Swing Futures
+DT,Demarc Natural Gas (Platts Gas Daily) Swing Futures
+X5,"Florida Gas, Zone 2 Natural Gas (Platts Gas Daily) Swing Futures"
+C8,Algonquin City-Gates Natural Gas (Platts Gas Daily) Swing Futures
+SR,Kern Opal Natural Gas (Platts Gas Daily) Swing Futures
+M3,"OneOk, Oklahoma Natural Gas (Platts Gas Daily) Swing Futures"
+Y9,"Texas Gas, Zone 1 Natural Gas (Platts Gas Daily) Swing Futures"
+M4,"Southern Star, Tx.-Okla.-Kan. Natural Gas (Platts Gas Daily) Swing Futures"
+VS,Ventura Natural Gas (Platts Gas Daily) Swing Futures
+SX,TETCO M-3 Natural Gas (Platts Gas Daily) Swing Futures
+ST,Transco Zone 6 Natural Gas (Platts Gas Daily) Swing Futures
+Q7,NGPL STX Natural Gas (Platts Gas Daily) Swing Futures
+K7,Trunkline ELA Natural Gas (Platts Gas Daily) Swing Futures
+X3,Transco Zone 2 Natural Gas (Platts Gas Daily) Swing Futures
+SM,Houston Ship Channel Natural Gas (Platts Gas Daily) Swing Futures
+X8,"Texas Eastern, WLA Natural Gas (Platts Gas Daily) Swing Futures"
+M6,"ANR, Louisiana Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+B2,Transco Zone 4 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+C4,Transco Zone 1 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+VI,Ventura Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+N5,SoCal City-Gate Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+DI,Demarc Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+N6,NGPL STX Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+C9,"Southern Star, Tx.-Okla.-Kan. Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IJ,San Juan Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+S9,"Columbia Gulf, Louisiana Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+C3,"Florida Gas, Zone 2 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+Q9,"Florida Gas, Zone 3 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IH,"Dominion, South Point Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IV,Panhandle Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IR,Rockies Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+M9,"Texas Eastern, ELA Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+S7,"Texas Gas, Zone SL Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+C7,"OneOk, Oklahoma Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+N7,Algonquin City-Gates Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IK,PG&E Citygate Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+Q4,Tennessee Zone 0 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+C2,"Texas Eastern, WLA Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IS,Chicago Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+L7,Transco Zone 2 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+Q1,Columbia Gas TCO (Platts Gas Daily/Platts IFERC) Index Futures
+II,CenterPoint Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IU,Sumas Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+Q2,TETCO STX Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+N4,"Texas Gas, Zone 1 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IY,Waha Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IP,Houston Ship Channel Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+M8,"Southern Natural, Louisiana Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+Y8,MichCon Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+V8,Malin Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IF,SoCal Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+OI,NGPL TexOk Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+Z8,CIG Rockies Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IL,Permian Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+IQ,"ANR, Oklahoma Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures"
+IW,NGPL Mid-Con Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+Y6,Transco Zone 3 Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+M7,Trunkline ELA Natural Gas (Platts Gas Daily/Platts IFERC) Index Futures
+NQ,Tennessee Zone 0 Natural Gas (Platts IFERC) Basis Futures
+9A,SoCal City-Gate Natural Gas (Platts IFERC) Basis Futures
+ND,"ANR, Louisiana Natural Gas (Platts IFERC) Basis Futures"
+8E,Transco Zone 1 Natural Gas (Platts IFERC) Basis Futures
+E2,National Balancing Point (NBP) Henry Hub Basis Futures
+PE,Demarc Natural Gas (Platts IFERC) Basis Futures
+TE,TETCO ELA Natural Gas (Platts IFERC) Basis Futures
+NB,Chicago Natural Gas (Platts IFERC) Basis Futures
+8A,"Florida Gas, Zone 2 Natural Gas (Platts IFERC) Basis Futures"
+NU,"Trunkline, Louisiana Natural Gas (Platts IFERC) Basis Futures"
+TB,"Texas Gas, Zone SL Natural Gas (Platts IFERC) Basis Futures"
+DW,Dawn Natural Gas (Platts IFERC) Basis Futures
+NV,Kern River Natural Gas (Platts IFERC) Basis Futures
+T5,NGPL STX Natural Gas (Platts IFERC) Basis Futures
+8F,Transco Zone 2 Natural Gas (Platts IFERC) Basis Futures
+PB,Malin Natural Gas (Platts IFERC) Basis Futures
+8B,"Texas Eastern, WLA Natural Gas (Platts IFERC) Basis Futures"
+STI,Singapore Fuel Oil 380 cst (Platts) 6.35 Dubai (Platts) Crack Spread Futures
+JB,Japan C&F Naphtha (Platts) Brent Crack Spread Futures
+DNB,Singapore Mogas 92 Unleaded (Platts) vs. DME Oman Crude Oil Swap Futures
+DZB,Singapore Gasoil (Platts) vs. DME Oman Crude Oil Swap Futures
+1ND,Singapore Mogas 92 Unleaded (Platts) Dubai (Platts) Crack Spread Futures
+DRK,Singapore Jet Kerosene (Platts) vs. DME Oman Crude Oil Swap Futures
+STB,Singapore Fuel Oil 180 cst (Platts) 6.35 Dubai (Platts) Crack Spread BALMO Futures
+GUD,Gulf Coast ULSD (Argus) Up-Down BALMO Futures
+NYC,NY 2.2% Fuel Oil (Platts) vs. Gulf Coast No. 6 Fuel Oil 3.0% (Platts) Futures
+1H,NY Harbor ULSD Crack Spread BALMO Futures
+NFC,NY 1% Fuel Oil (Platts) Crack Spread BALMO Futures
+GCG,Gulf Coast CBOB Gasoline A2 (Platts) Crack Spread Futures
+1J,Gulf Coast Unl 87 (Platts) Crack Spread BALMO Futures
+CK,Gulf Coast Unl 87 (Argus) Crack Spread Futures
+GBA,Gulf Coast Jet (Argus) Up-Down BALMO Futures
+CF,Gulf Coast ULSD (Argus) Crack Spread Futures
+GBB,Gulf Coast Unl 87 Gasoline M2 (Platts) vs. RBOB Gasoline BALMO Futures
+1E,RBOB Gasoline Crack Spread BALMO Futures
+NYG,NY Fuel Oil 1.0% (Platts) vs. European 1% Fuel Oil Cargoes FOB NWE (Platts) BALMO Futures
+GCC,Gulf Coast Unl 87 Gasoline M2 (Platts) Crack Spread Futures
+UGG,Gulf Coast Unl 87 Gasoline M2 (Argus) Futures
+CBC,Gulf Coast CBOB Gasoline A1 (Platts) Crack Spread Futures
+RD,Gulf Coast No. 2 (Platts) Crack Spread Futures
+NYI,NY 0.7% Fuel Oil (Platts) vs. NY 1.0% Fuel Oil (Platts) Futures
+RBG,Gulf Coast Unl 87 Gasoline M2 (Argus) vs. RBOB Gasoline Futures
+GEB,Gasoil 0.1% Cargoes CIF NWE (Platts) Crack Spread (1000mt) Futures
+GKS,Gasoline 10 ppm FOB MED (Platts) Crack Spread Futures
+EBF,1% Fuel Oil Barges FOB Rdam (Platts) vs. 1% Fuel Oil Cargoes FOB NWE (Platts) BALMO Futures
+GFN,Gasoil 50 ppm Barges FOB Rdam (Platts) vs. Gasoil 0.1% Barges FOB Rdam (Platts) Futures
+LSC,"Low Sulphur Gasoil Crack Spread (1,000 bbl) Financial Futures"
+MUL,Mini ULSD 10ppm Cargoes CIF NWE (Platts) vs. Gasoil (Euro Denominated) Futures
+AES,Argus Gasoline Eurobob Oxy Barges NWE Crack Spread (1000mt) BALMO Futures
+GRC,Gasoil 50 ppm Barges FOB Rdam (Platts) Crack Spread (1000mt) Futures
+XER,RBOB Gasoline vs. Euro-bob Oxy NWE Barges (Argus) Futures
+GOB,Gasoil 0.1% Barges FOB Rdam (Platts) Crack Spread (1000mt) Futures
+MGG,Mini Gasoil 0.1 Cargoes CIF NWE (Platts) vs. Gasoil (Euro Denominated) Futures
+NBB,Naphtha Cargoes CIF NWE (Platts) Crack Spread (1000mt) BALMO Futures
+FOA,3.5% Fuel Oil Cargoes FOB MED (Platts) Crack Spread BALMO Futures
+ENF,European Diesel 10 ppm Barges FOB Rdam (Platts) vs. Gasoil 50 ppm Barges FOB Rdam (Platts) Futures
+WCE,Western Canadian Select (WCS) Crude Oil Futures
+P6,High Density Polyethylene (HDPE) Futures
+P1,Polypropylene Futures
+CPP,Conway Physical Propane In-Well (OPIS) Futures
+3R,Mont Belvieu Physical Natural Gasoline (OPIS) Futures
+3L,Mont Belvieu Physical Iso-Butane (OPIS) Futures
+3N,Mont Belvieu Physical LDH Propane (OPIS) Futures
+3M,Mont Belvieu Physical Normal Butane (OPIS) Futures
+3Q,Mont Belvieu Physical Ethane (OPIS) Futures
+3P,Mont Belvieu Physical Non-LDH Propane (OPIS) Futures
+LPE,LLDPE Linear Low Density Polyethylene (PCW) Financial Futures
+PPW,PP Polypropylene (PCW) BALMO Futures
+LEL,LLDPE Linear Low Density Polyethylene (PCW) BALMO Futures
+HPD,HDPE High Density Polyethylene (PCW) BALMO Futures
+CBB,Conway Normal Butane (OPIS) BALMO Futures
+1S,Propane Non-LDH Mont Belvieu (OPIS) BALMO Futures
+C5D,Daily Mont Belvieu Natural Gasoline (Non-LDH) (OPIS) Futures
+C3D,Daily Mont Belvieu LDH Propane (OPIS) Futures
+C4D,Daily Mont Belvieu Normal Butane (Non-LDH) (OPIS) Futures
+CGB,Conway Natural Gasoline (OPIS) BALMO Futures
+81,Mont Belvieu Mini LDH Propane (OPIS) Futures
+31,Mont Belvieu LDH Propane (OPIS) vs. Argus Propane Far East Index Futures
+51,Mont Belvieu LDH Propane (OPIS) vs. European Propane CIF ARA (Argus) Futures
+4X,CAISO NP15 EZ Gen Hub 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+MDC,Mid-Columbia Day-Ahead Peak Calendar-Month 5 MW Future
+1Y,CAISO NP15 EZ Gen Hub 5 MW Peak Calendar-Month Real-Time LMP Futures
+1Z,CAISO SP15 EZ Gen Hub 5 MW Peak Calendar-Month Real-Time LMP Futures
+PVD,Palo Verde Day-Ahead Peak Calendar-Month 5 MW Future
+9X,CAISO SP15 EZ Gen Hub 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+E9,PJM Eastern Hub Peak Calendar-Month Day-Ahead LMP Futures
+MPR,PJM ATSI Zone 5 MW Peak Calendar-Month Real-Time Futures
+R5,PJM DOM Zone Peak Calendar-Month Day-Ahead LMP Futures
+49,PJM PENELEC Zone Peak Calendar-Month Day-Ahead LMP Futures
+LM,MISO Minnesota Hub Peak Calendar-Month LMP 5 MW Futures
+OM,MISO Illinois Hub Peak Calendar-Month LMP 5 MW Futures
+4Q,MISO Illinois Hub 5 MW Peak Calendar-Month Day-Ahead Futures
+HM,MISO Michigan Hub Peak Calendar-Month LMP Futures
+P9,ISO New England Maine Zone 5 MW Peak Calendar-Month Day-Ahead LMP Futures
+EUE,ERCOT South 345 kV Hub Day-Ahead 5 MW Peak Futures
+EHE,ERCOT Houston 345 kV Hub Day-Ahead 5 MW Peak Futures
+I1,ERCOT Houston 345 kV Hub 5 MW Peak Futures
+I9,ERCOT South 345 kV Hub 5 MW Peak Futures
+ERE,ERCOT North 345 kV Hub Day-Ahead 5 MW Peak Futures
+EWE,ERCOT West 345 kV Hub Day-Ahead 5 MW Peak Futures  
+APP,Alberta Power Pool Peak Calendar-Month Futures
+AEX,Alberta Power Pool Extended Peak Calendar-Month Futures
+5X,CAISO SP15 EZ Gen Hub 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+2D,CAISO NP15 EZ Gen Hub 5 MW Off-Peak Calendar-Month Real-Time LMP Futures
+OMC,Mid-Columbia Day-Ahead Off-Peak Calendar-Month 5 MW Future
+OVD,Palo Verde Day-Ahead Off-Peak Calendar-Month 5 MW Future
+2E,CAISO SP15 EZ Gen Hub 5 MW Off-Peak Calendar-Month Real-Time LMP Futures
+3X,CAISO NP15 EZ Gen Hub 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+QVD,Palo Verde Day-Ahead Off-Peak Daily Calendar-Month 5 MW Future
+F4,PJM Eastern Hub Off-Peak Calendar-Month Day-Ahead LMP Futures
+50,PJM PENELEC Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+U1,PJM DOM Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+Q8,PJM PEPCO Zone Off-Peak Calendar-Month Day-Ahead LMP Futures
+MOR,PJM ATSI Zone 5 MW Off-Peak Calendar-Month Real-Time Futures
+LJ,MISO Minnesota Hub Off-Peak Calendar-Month LMP 5 MW Futures
+OJ,MISO Illinois Hub Off-Peak Calendar Month LMP 5 MW Futures
+HJ,MISO Michigan Hub Off-Peak Calendar-Month LMP Futures
+4R,MISO Illinois Hub 5 MW Off-Peak Calendar-Month Day-Ahead Futures
+W2,ISO New England Maine Zone 5 MW Off-Peak Calendar-Month Day-Ahead LMP Futures
+ERU,ERCOT North 345 kV Hub Day-Ahead 5 MW Off-Peak Futures
+I2,ERCOT Houston 345 kV Hub 5 MW Off-Peak Futures
+EHP,ERCOT Houston 345 kV Hub Day-Ahead 5 MW Off-Peak Futures
+ERA,ERCOT South 345 kV Hub Day-Ahead 5 MW Off-Peak Futures
+J1,ERCOT South 345 kV Hub 5 MW Off-Peak Futures
+EWK,ERCOT West 345 kV Hub Day-Ahead 5 MW Off-Peak Futures
+APF,Alberta Power Pool Off-Peak Calendar-Month Futures
+AEF,Alberta Power Pool Extended Off-Peak Calendar-Month Futures
+PDJ,PJM Daily Load Forecast Futures
+EMC,ERCOT Daily Load Forecast Futures
+AOD,Alberta Power Pool Calendar Day 1 MW Futures
+AOM,Alberta Power Pool Calendar Month 1 MW Futures
+2J,CAISO NP15 EZ Gen Hub 5 MW Off-Peak Calendar-Day Real-Time LMP Futures
+2F,CAISO NP15 EZ Gen Hub 5 MW Peak Calendar-Day Real-Time LMP Futures
+MDA,Mid-Columbia Day-Ahead Peak Daily Calendar-Month 5 MW Future
+VDP,Palo Verde Day-Ahead Peak Daily Calendar-Month 5 MW Future
+3Z,CAISO NP15 EZ Gen Hub 5 MW Peak Calendar-Day Day-Ahead LMP Futures
+9Z,CAISO SP15 EZ Gen Hub 5 MW Peak Calendar-Day Day-Ahead LMP Futures
+2H,CAISO SP15 EZ Gen Hub 5 MW Peak Calendar-Day Real-Time LMP Futures
+PNP,PJM Northern Illinois Hub Day-Ahead Peak Calendar-Day 5 MW Futures
+PAP,PJM AEP Dayton Hub Day-Ahead Peak Calendar-Day 5 MW Futures
+DPR,PJM ATSI Zone 5 MW Peak Calendar-Day Real-Time Futures
+DPD,PJM ATSI Zone 5 MW Peak Calendar-Day Day-Ahead Futures
+UD,PJM Northern Illinois Hub Real-Time Peak Calendar-Day 5 MW Futures
+AN,NYISO Zone A Day-Ahead Peak Calendar-Day 5 MW Futures
+JN,NYISO Zone J Day-Ahead Peak Calendar-Day 5 MW Futures
+GN,NYISO Zone G Day-Ahead Peak Calendar-Day 5 MW Futures
+PTD,MISO Indiana Hub Real-Time Peak Calendar-Day 5 MW Futures
+PDD,MISO Indiana Hub Day-Ahead Peak Calendar-Day 5 MW Futures
+CE,ISO New England Mass Hub Day-Ahead Peak Calendar-Day 5 MW Futures
+ERW,ERCOT North 345 kV Hub Day-Ahead 5 MW Peak Calendar-Day Futures
+I3,ERCOT Houston 345 kV Hub 5 MW Peak Calendar-Day Futures
+K1,ERCOT South 345 kV Hub 5 MW Peak Calendar-Day Futures
+EWW,ERCOT West 345 kV Hub Day-Ahead 5 MW Peak Calendar-Day Futures
+I7,ERCOT North 345 kV Hub 5 MW Peak Calendar-Day Futures
+EUW,ERCOT South 345 kV Hub Day-Ahead 5 MW Peak Calendar-Day Futures
+EHF,ERCOT Houston 345 kV Hub Day-Ahead 5 MW Peak Calendar-Day Futures  
+R1,ERCOT West 345 kV Hub 5 MW Peak Calendar-Day Futures
+AXP,Alberta Power Pool Extended Peak Calendar-Day Futures
+ALP,Alberta Power Pool Peak Calendar-Day Futures
+4Z,CAISO SP15 EZ Gen Hub 5 MW Off-Peak Calendar-Day Day-Ahead LMP Futures
+MXO,Mid-Columbia Day-Ahead Off-Peak Daily Calendar-Month 5 MW Future
+2Z,CAISO NP15 EZ Gen Hub 5 MW Off-Peak Calendar-Day Day-Ahead LMP Futures
+2K,CAISO SP15 EZ Gen Hub 5 MW Off-Peak Calendar-Day Real-Time LMP Futures
+IDO,ISO New England Mass Hub Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+PNO,PJM Northern Illinois Hub  Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+PWO,PJM Western Hub  Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+ZGO,NYISO Zone G Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+WOR,PJM Western Hub Real-Time Off-Peak Calendar-Day 5 MW Futures
+ZAO,NYISO Zone A Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+NOC,PJM Northern Illinois Hub Real-Time Off-Peak Calendar-Day 5 MW Futures
+DOR,PJM ATSI Zone 5 MW Off-Peak Calendar-Day Real-Time Futures
+DOD,PJM ATSI Zone 5 MW Off-Peak Calendar-Day Day-Ahead Futures
+ZJO,NYISO Zone J Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+PEO,PJM AEP Dayton Hub Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+FAD,MISO Indiana Hub Day-Ahead Off-Peak Calendar-Day 5 MW Futures
+FTD,MISO Indiana Hub Real-Time Off-Peak Calendar-Day 5 MW Futures
+I4,ERCOT Houston 345 kV Hub 5 MW Off-Peak Calendar-Day Futures
+EHW,ERCOT Houston 345 kV Hub Day-Ahead 5 MW Off-Peak Calendar-Day Futures
+M1,ERCOT South 345 kV Hub 5 MW Off-Peak Calendar-Day Futures
+EUP,ERCOT South 345 kV Hub Day-Ahead 5 MW Off-Peak Calendar-Day Futures
+ERP,ERCOT North 345 kV Hub Day-Ahead 5 MW Off-Peak Calendar-Day Futures
+I8,ERCOT North 345 kV Hub 5 MW Off-Peak Calendar-Day Futures
+R4,ERCOT West 345 kV Hub 5 MW Off-Peak Calendar-Day Futures
+EWF,ERCOT West 345 kV Hub Day-Ahead 5 MW Off-Peak Calendar-Day Futures
+OFD,Ontario Off-Peak Calendar-Day Futures
+ALF,Alberta Power Pool Off-Peak Calendar-Day Futures
+AFP,Alberta Power Pool Extended Off-Peak Calendar-Day Futures
+CSN,Canadian Sweet Synthetic Oil Index (Net Energy) Futures
+BSG,ICE Brent (Singapore Marker) vs. DME Oman Crude Oil Swap Futures
+DPO,DME Oman Crude Oil vs. Dubai (Platts) Swap Futures
+CFC,Brent CFD: Dated Brent (Platts) vs. Brent Third Month (Platts) Weekly Futures
+59,Brent CFD: Dated Brent (Platts) vs. Brent Third Month (Platts) Daily Futures
+38,"Argus Sour Crude Index (""ASCI"") vs. WTI Diff Spread Calendar Month Futures"
+1C,Brent CFD: Dated Brent (Platts) vs. Brent Front Month (Platts) Daily Futures
+CFB,Brent CFD: Dated Brent (Platts) vs. Brent Second Month (Platts) Weekly Futures
+CFA,Brent CFD: Dated Brent (Platts) vs. Brent Front Month (Platts) Weekly Futures
+DBO,ICE Brent vs. DME Oman Crude Oil Swap Futures
+36,"Argus Sour Crude Index (""ASCI"") vs. WTI Diff Spread Trade Month Futures"
+SDM,Singapore 180cst Fuel Oil (Platts) Mini Weekly Spread Futures
+LSS,Singapore Gasoil (Platts) vs. Low Sulphur Gasoil Futures
+SFB,Singapore Fuel Oil 380 cst (Platts) vs. European 3.5% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+SMW,Singapore 380cst Fuel Oil (Platts) Mini Weekly Spread Futures
+SMU,Singapore Mogas 95 Unleaded (Platts) vs. Singapore Mogas 92 Unleaded (Platts) Futures
+MSD,Singapore Fuel Oil 180 cst (Platts) vs. 380 cst (Platts) BALMO Futures
+Z0,Singapore Jet Kerosene (Platts) vs. Gasoil (Platts) BALMO Futures
+UZ,Gulf Coast Unl 87 (Argus) Up-Down Futures
+NFG,NY 1% Fuel Oil (Platts) vs. Gulf Coast 3% Fuel Oil (Platts) BALMO Futures
+MD,Gulf Coast Unl 87 (Platts) vs. Gulf Coast Heating Oil (Platts) Futures
+US,Gulf Coast ULSD (Argus) Up-Down Futures
+JU,Gulf Coast Jet (Argus) Up-Down Futures
+7U,Gulf Coast Heating Oil (Argus) vs. NY Harbor ULSD Futures
+5U,NY Jet Fuel (Argus) vs. NY Harbor ULSD Futures
+6X,Jet Fuel Cargoes CIF NWE (Platts) vs. Gasoil BALMO Futures
+BBU,Diesel 10ppm Barges FOB Rdam (Platts) vs. ULSD 10ppm Cargoes CIF NWE (Platts) Futures
+UCU,ULSD 10ppm Cargoes CIF MED (Platts) vs. ULSD 10ppm Cargoes CIF NWE (Platts) Futures
+7V,ULSD 10ppm CIF MED (Platts) vs. Gasoil BALMO Futures
+WT,Gasoil 0.1 Cargoes FOB NWE (Platts) vs. Gasoil Futures
+8W,Gasoil 0.1 Cargoes CIF MED (Platts) vs. Gasoil BALMO Futures
+MGF,Mini Gasoil 0.1 Cargoes CIF NWE (Platts) vs. Gasoil Futures
+EO1,ULSD 10ppm Cargoes CIF NWE (Platts) vs. New York Harbor ULSD Futures
+EWB,East-West Fuel Oil Spread (Platts) BALMO Futures
+GRB,Gasoil 50 ppm Barges FOB Rdam (Platts) vs. Gasoil BALMO Futures
+9Q,Jet Fuel Barges FOB Rdam (Platts) vs. Gasoil BALMO Futures
+LSL,ULSD 10ppm Cargoes CIF Med (Platts) vs. Low Sulphur Gasoil Futures
+4V,Gasoil 0.1 Cargoes CIF NWE (Platts) vs. Gasoil BALMO Futures
+EP1,ULSD 10ppm Cargoes CIF Med (Platts) vs. New York Harbor ULSD Futures
+JR,Jet Barges FOB Rdam (Platts) vs. Gasoil Futures
+MJB,Mini European Jet Kero Barges FOB Rdam (Platts) vs. Gasoil Futures
+GRS,Gasoil 50 ppm Barges FOB Rdam (Platts) vs. Gasoil Futures
+EMW,European 3.5% Fuel Oil Barges Fob Rdam (Platts) Mini Weekly Spread Futures
+SLS,"NY Harbor ULSD vs. Low Sulphur Gasoil (1,000mt) Futures"
+EWG,East-West Gasoline Spread (Platts-Argus) Futures
+EL1,European Diesel 10ppm Barges FOB Rdam (Platts) vs. NY Harbor ULSD Futures
+NLS,"NY Harbor ULSD vs. Low Sulphur Gasoil (1,000bbl) Futures"
+NFS,NGPL Mid-Con Natural Gas (Platts IFERC) Fixed Price Futures
+DAL,"ANR, Oklahoma Natural Gas (Platts IFERC) Fixed Price Futures"
+ZNP,Tennessee 500 Leg Natural Gas (Platts IFERC) Fixed Price Futures
+BDC,Brent 25-Day (Platts) Financial Futures
+VLA,Crude Oil Calendar Variance Futures
+XZ1,Transco Zone 1 Natural Gas (Platts IFERC) Fixed Price Futures
+XZ6,Transco Zone 6 non-NY Natural Gas (Platts IFERC) Fixed Price Futures
+LAI,LNG East Asia Index (ICIS Heren) Futures
+DFE,Kern River Natural Gas (Platts IFERC) Fixed Price Futures
+MO,Mars (Argus) Trade Month Futures
+VNQ,Natural Gas Quarterly Variance Futures
+CFS,Columbia Gas TCO (Platts IFERC) Fixed Price Futures
+Z5P,Texas Eastern Zone M-3 Natural Gas (Platts IFERC) Fixed Price Futures
+IBS,Brent (Singapore Marker) Futures
+29,"Argus Sour Crude Index (""ASCI"") Trade Month Futures"
+HHS,Henry Hub Natural Gas (Platts IFERC) Fixed Price Futures
+39,Argus WTI Formula Basis Calendar Month Futures
+MB,Gulf Coast Sour Crude Oil Futures
+DVS,Sumas Natural Gas (Platts IFERC) Fixed Price Futures
+VLR,Crude Oil Quarterly Variance Futures
+DNP,Demarc Natural Gas (Platts IFERC) Fixed Price Futures
+DOB,DME Oman Crude Oil BALMO Swap Futures
+CVF,Crude Oil Volatility Index (VIX) Futures
+DNS,NGPL STX Natural Gas (Platts IFERC) Fixed Price Futures
+DAC,Center Point Natural Gas (Platts IFERC) Fixed Price Futures
+DOO,DME Oman Crude Oil Swap Futures
+DSF,"Dominion, South Point Natural Gas (Platts IFERC) Fixed Price Futures"
+XJ,Houston Ship Channel Natural Gas (Platts IFERC) Fixed Price Futures
+DVA,Ventura Natural Gas (Platts IFERC) Fixed Price Futures
+MCL,Micro Crude Oil Futures
+ZTA,Texas Gas Zone 1 Natural Gas (Platts IFERC) Fixed Price Futures
+26,Crude Oil Last Day Financial Futures
+R2,Russian Export Blend Crude Oil (REBCO) Financial Futures
+RE,Russian Export Blend Crude Oil (REBCO) Physical Futures
+SGW,SoCal Gas City-Gate Natural Gas (Platts IFERC) Fixed Price Futures
+XB,WTI Midland (Argus) Financial Futures
+VBY,Brent Crude Oil Annual Variance Futures
+XX,San Juan Natural Gas (Platts IFERC) Fixed Price Futures
+V7,Argus WTI Trade Month Futures
+DCE,"Columbia Gulf, Mainline Natural Gas (Platts IFERC) Fixed Price Futures"
+PFS,Permian Natural Gas (Platts IFERC) Fixed Price Futures
+DML,Malin Natural Gas (Platts IFERC) Fixed Price Futures
+A4,Argus LLS Trade Month Futures
+MX,Mars (Argus) Financial Futures
+VNA,Natural Gas Calendar Variance Futures
+XZ,Transco Zone 6 Natural Gas (Platts IFERC) Fixed Price Futures
+XZ3,Transco Zone 3 Natural Gas (Platts IFERC) Fixed Price Futures
+AY,WTS (Argus) Trade Month Futures
+VBS,Brent Crude Oil Semi-Annual Variance Futures
+ZNT,Tennessee Zone 0 Natural Gas (Platts IFERC) Fixed Price Futures
+VLS,Crude Oil Semi-Annual Variance Futures
+XZ4,Transco Zone 4 Natural Gas (Platts IFERC) Fixed Price Futures
+VBQ,Brent Crude Oil Quarterly Variance Futures
+JKM,LNG Japan/Korea Marker (Platts) Futures
+VNS,Natural Gas Semi-Annual Variance Futures
+DAR,"ANR, Louisiana Natural Gas (Platts IFERC) Fixed Price Futures"
+MBZ,Micro Brent Crude Oil Penultimate Financial Futures
+FE,Dated Brent (Platts) to Frontline Brent BALMO Futures
+ZTS,TETCO STX Natural Gas (Platts IFERC) Fixed Price Futures
+WFS,Waha Natural Gas (Platts IFERC) Fixed Price Futures
+XH,Panhandle Natural Gas (Platts IFERC) Fixed Price Futures
+NBZ,Brent 25-Day Futures
+DCL,Daily WTI Financial Futures
+ZZ6,Tennessee 800 Leg Natural Gas (Platts IFERC) Fixed Price Futures
+MFS,MichCon Natural Gas (Platts IFERC) Fixed Price Futures
+37,"Argus Sour Crude Index (""ASCI"") Calendar Month Futures"
+MNG,Henry Hub Natural Gas Last Day Physically-Delivered Futures
+MBS,Middle East Gasoil FOB Arab Gulf (Platts) BALMO Futures
+MNE,Mini Middle East Naphtha FOB Arab Gulf (Platts) BALMO Futures
+MGS,Mini Middle East HSFO 180 cst FOB Arab Gulf (Platts) BALMO Futures
+Y0,Singapore Mogas 97 Unleaded (Platts) BALMO Futures
+RMU,Tokyo Bay A-Grade 0.1% Sulfur Fuel Oil (RIM) Futures
+STL,Singapore Gasoil 10 ppm (Platts) BALMO Futures
+RMF,Tokyo Bay A-Grade 1% Sulfur Fuel Oil (RIM) Futures
+MSE,Mini Middle East HSFO 380 cst FOB Arab Gulf (Platts) Futures
+MPE,Middle East Gasoil FOB Arab Gulf (Platts) Futures
+W0,Singapore Mogas 95 Unleaded (Platts) BALMO Futures
+MME,Mini Middle East Naphtha FOB Arab Gulf (Platts) Futures
+MHS,Mini Middle East HSFO 380 cst FOB Arab Gulf (Platts) BALMO Futures
+MHE,Mini Middle East HSFO 180 cst FOB Arab Gulf (Platts) Futures
+RMG,Tokyo Bay Gasoline (RIM) Futures
+RMS,Tokyo Bay 10ppm Gasoil (RIM) Futures
+D62,D6 Ethanol RINS (Argus) 2012 Futures
+LL,Los Angeles Jet (OPIS) Futures
+GSI,Biodiesel SME Houston B-100 (Argus) Futures
+XNC,NGPL TexOk Natural Gas (Platts IFERC) Fixed Price Futures
+NYB,NY 0.3% Fuel Oil HiPr (Platts) BALMO Futures
+2C,Chicago Unleaded Gasoline (Platts) Futures
+AJ,Gulf Coast ULSD (Argus) Futures
+XAC,Algonquin Natural Gas (Platts IFERC) Fixed Price Futures
+1Q,NY Jet Fuel (Platts) Futures
+4U,Gulf Coast Heating Oil (Argus) Futures
+XGC,Florida Gas Zone 2 Natural Gas (Platts IFERC) Fixed Price Futures
+Y4,NY 0.7% Fuel Oil (Platts) Futures
+VQ,NY 0.3% Fuel Oil (Platts) Futures
+23,NY Harbor ULSD Last Day Financial Futures
+NYS,NY 0.7% Fuel Oil (Platts) BALMO Futures
+GP,Gulf Coast Heating Oil (Platts) Futures
+D63,D6 Ethanol RINS (Argus) 2013 Futures
+D53,D5 Advanced Biofuel RINS (Argus) 2013 Futures
+XFC,Florida Gas Zone 3 Natural Gas (Platts IFERC) Fixed Price Futures
+D54,D5 Advanced Biofuel RINS (Argus) 2014 Futures
+NYE,NY 2.2% Fuel Oil (Platts) BALMO Futures
+MH,Los Angeles CARBOB Gasoline (OPIS) Futures
+XKC,"OneOk, Oklahoma Natural Gas (Platts IFERC) Fixed Price Futures"
+CRG,Gulf Coast CBOB Gasoline A2 (Platts) Futures
+4Y,NY Jet Fuel (Argus) Futures
+5Y,NY ULSD (Argus) Futures
+27,RBOB Gasoline Last Day Financial Futures
+D42,D4 Biodiesel RINS (Argus) 2012 Futures
+XSC,Southern Natural Louisiana Natural Gas (Platts IFERC) Fixed Price Futures
+CBO,Gulf Coast CBOB Gasoline A1 (Platts) Futures
+NYT,NY 3.0% Fuel Oil (Platts) BALMO Futures
+A9,Group Three Sub-octane Gasoline (Platts) Futures
+D52,D5 Advanced Biofuel RINS (Argus) 2012 Futures
+8N,NY 0.3% Fuel Oil HiPr (Platts) Futures
+AF,Gulf Coast Jet (Argus) Futures
+RY,NY RBOB (Platts) Financial Futures
+GCM,Gulf Coast Unl 87 Gasoline M2 (Platts) Futures
+YS,NY ULSD (Platts) Futures
+NYH,NY 0.3% Fuel Oil HiPr (Platts) vs. NY Fuel Oil 1.0% (Platts) Futures
+D43,D4 Biodiesel RINS (Argus) 2013 Futures
+HBI,Henry Hub Combo Futures
+XIC,CIG Rockies Natural Gas (Platts IFERC) Fixed Price Futures
+YF,NY Heating Oil (Platts) Futures
+AW,Gulf Coast Unl 87 (Argus) Futures
+XQ,PG&E Citygate Natural Gas (Platts IFERC) Fixed Price Futures
+XO,Chicago Natural Gas (Platts IFERC) Fixed Price Futures
+XTC,Trunkline Louisiana Natural Gas (Platts IFERC) Fixed Price Futures
+NCP,Daily European Naphtha CIF NWE (Platts) Futures
+GFL,Gasoil 50 ppm Barges FOB Rdam (Platts) BALMO Futures
+FOR,Daily European 3.5% Fuel Oil Barges FOB Rdam (Platts) Futures
+7D,3.5% Fuel Oil CIF MED (Platts) Futures
+LSP,Low Sulphur Gasoil (100mt) Penultimate Day Futures
+7F,European Gasoil (100mt) Bullet Futures
+Z6,ULSD 10ppm Cargoes CIF MED (Platts) Futures
+7N,Premium Unleaded Gasoline 10 ppm Barges FOB Rdam (Platts) BALMO Futures
+Z4,Gasoil 0.1 Cargoes CIF MED (Platts) Futures
+6L,European 1% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+X6,Gasoil 0.1 Cargoes CIF MED (Platts) BALMO Futures
+X9,Jet Fuel Barges FOB Rdam (Platts) BALMO Futures
+MFT,Mini 3.5% Fuel Oil Barges FOB Rdam (Platts) (Euro Denominated) Futures
+B1,ULSD 10ppm Cargoes CIF NWE (Platts) BALMO Futures
+8D,3.5% Fuel Oil CIF MED (Platts) BALMO Futures
+U9,Gasoil BALMO Futures
+IGE,Gasoil (Euro Denominated) Financial Futures
+FOB,1% Fuel Oil Cargoes CIF MED (Platts) BALMO Futures
+0A,Mini European 1% Fuel Oil Barges FOB Rdam (Platts) BALMO Futures
+GFS,Gasoil 50 ppm Barges FOB Rdam (Platts) Futures
+U7,Diesel 10ppm Barges FOB Rdam (Platts) BALMO Futures
+F3,Jet Fuel Cargoes CIF NWE (Platts) BALMO Futures
+MFE,Mini 1% Fuel Oil Cargoes FOB NWE (Platts) (Euro Denominated) Futures
+LSM,Low Sulphur Gasoil (100mt) Calendar Month Futures
+WR,Gasoil 0.1 Cargoes FOB NWE (Platts) Futures
+2G,Premium Unleaded Gasoline 10 ppm CIF MED (Platts) Futures
+UR,European Jet Kerosene Barges FOB Rdam (Platts) Futures
+B7,Gasoil 0.1 Cargoes CIF NWE (Platts) BALMO Futures
+B8,Gasoil 0.1 Barges FOB Rdam (Platts) BALMO Futures
+FCN,Daily European 1% Fuel Oil Cargoes FOB NWE (Platts) Futures
+7S,EuroBob Gasoline 10 ppm Barges FOB Rdam (Platts) BALMO Futures
+FOM,1% Fuel Oil Cargoes FOB MED (Platts) BALMO Futures
+EFF,European 3.5% Fuel Oil Cargoes FOB MED (Platts) BALMO Futures
+X7,ULSD 10ppm CIF MED (Platts) BALMO Futures
+GBR,Daily Gasoline Euro-bob Oxy NWE Barges (Argus) Futures
+RJ,Regional Greenhouse Gas Initiative (RGGI) CO2 Allowance Futures
+76,Regional Greenhouse Gas Initiative CO2 Allowance Vintage 2010 Futures
+86,Regional Greenhouse Gas Initiative CO2 Allowance Vintage 2011 Futures
+98,Regional Greenhouse Gas Initiative CO2 Allowance Vintage 2009 Futures
+96,Regional Greenhouse Gas Initiative CO2 Allowance Vintage 2012 Futures
+REU,Emission Reduction Unit (ERU) Futures
+EUL,Daily European Union Allowance (EUA) Futures
+FLY,European Union Aviation Allowance (EUAA) Futures
+RC,European Union Allowance (EUA) Futures
+93,Climate Action Registry (CAR) - Vintage 2010 Futures
+94,Climate Action Registry (CAR) - Vintage 2011 Futures
+95,Climate Action Registry (CAR) - Vintage 2012 Futures
+CR,Climate Action Registry (CAR) - non Vintage Futures
+92,Climate Action Registry (CAR) - Vintage 2009 Futures
+CCA,California Carbon Allowance (CCA) Futures
+6M,Central Appalachian Coal Calendar Strip Options
+C1,Central Appalachian Coal Options
+RQA,Coal (API 4) fob Richards Bay (Argus/McCloskey) Quarterly Option
+TDT,Freight Route TD3 (Baltic) Average Price Options
+TCF,Freight Route TC5 (Platts) Average Price Options
+TCW,Freight Route TC2 (Baltic) Average Price Options
+5I,Rockies Natural Gas (Platts IFERC) Basis Option
+5G,NGPL Mid-Con Natural Gas (Platts IFERC) Basis Option
+5D,Columbia Gas TCO (Platts IFERC) Basis Option
+5N,Texas Eastern Zone M-3 Natural Gas (Platts IFERC) Basis Option
+5O,"Waha, Texas Basis Swap Options"
+4W,MichCon Natural Gas (Platts IFERC) Basis Option
+5M,SoCal Natural Gas (Platts IFERC) Basis Option
+5F,Houston Ship Channel Natural Gas (Platts IFERC) Basis Option
+5K,Panhandle Natural Gas (Platts IFERC) Basis Option
+5H,NGPL TexOk Natural Gas (Platts IFERC) Basis Option
+5E,Henry Hub Natural Gas (Platts IFERC) Basis Option
+CHY,NY Harbor ULSD Crack Spread Option
+GCE,Gasoline Euro-bob Oxy NWE Barges (Argus) Crack Spread Average Price Options
+RBC,RBOB Gasoline Brent Crack Spread Average Price Options
+WCO,Western Canadian Select (WCS) Crude Oil Option
+4I,Mont Belvieu Natural Gasoil 5 DL Options
+CSZ,CAISO SP15 EZ Gen Hub 5 MW Peak Calendar-Month Day-Ahead LMP Option
+OU,PJM Northern Illinois Hub Peak Calendar-Month LMP Option
+PJN,PJM Northern Illinois Hub Peak 50 MW Calendar-Month LMP Options
+PEP,PJM PEPCO Zone Peak Calendar-Month Day-Ahead LMP 5 MW Options
+PJD,PJM AEP Dayton Hub Peak 50 MW Calendar-Month LMP Options
+OT,PJM AEP Dayton Hub Peak Calendar-Month LMP 5 MW Options
+JCL,PJM JCPL Zone Peak Calendar-Month Day-Ahead LMP Option
+PJH,PJM Northern Illinois Hub Peak 50 MW Calendar-Month LMP Swap (European) Options
+PJP,PJM AEP Dayton Hub Peak 50 MW Calendar-Month LMP Options
+PSG,PJM PSEG Zone Peak Calendar-Month Day-Ahead LMP 5 MW Options
+9U,NYISO Zone G 5 MW Peak Calendar-Month Day-Ahead LBMP Option
+9T,NYISO Zone A Day-Ahead Peak Calendar-Month 5 MW Options
+9V,NYISO Zone J Day-Ahead Peak Calendar-Month 5 MW Options
+OY,MISO Indiana Hub (formerly Cinergy Hub) Peak Calendar-Month LMP Option
+NEL,ISO New England Mass Hub Peak LMP Calendar Strip Options
+6OO,PJM Western Hub Real-Time Off-Peak Calendar-Month 50 MW Strip Options
+J17,PJM West Hub 50 MW Same Day Option D17
+J29,PJM West Hub 50 MW Same Day Option D29
+J18,PJM West Hub 50 MW Same Day Option D18
+J13,PJM West Hub 50 MW Same Day Option D13
+J02,PJM West Hub 50 MW Same Day Option D02
+J27,PJM West Hub 50 MW Same Day Option D27
+J26,PJM West Hub 50 MW Same Day Option D26
+J01,PJM West Hub 50 MW Same Day Option D01
+J06,PJM West Hub 50 MW Same Day Option D06
+J10,PJM West Hub 50 MW Same Day Option D10
+J22,PJM West Hub 50 MW Same Day Option D22
+J14,PJM West Hub 50 MW Same Day Option D14
+J07,PJM West Hub 50 MW Same Day Option D07
+J09,PJM West Hub 50 MW Same Day Option D09
+J28,PJM West Hub 50 MW Same Day Option D28
+J24,PJM West Hub 50 MW Same Day Option D24
+J16,PJM West Hub 50 MW Same Day Option D16
+J12,PJM West Hub 50 MW Same Day Option D12
+J30,PJM West Hub 50 MW Same Day Option D30
+J25,PJM West Hub 50 MW Same Day Option D25
+J23,PJM West Hub 50 MW Same Day Option D23
+J20,PJM West Hub 50 MW Same Day Option D20
+J03,PJM West Hub 50 MW Same Day Option D03
+J04,PJM West Hub 50 MW Same Day Option D04
+J11,PJM West Hub 50 MW Same Day Option D11
+J08,PJM West Hub 50 MW Same Day Option D08
+J05,PJM West Hub 50 MW Same Day Option D05
+J31,PJM West Hub 50 MW Same Day Option D31
+J15,PJM West Hub 50 MW Same Day Option D15
+J21,PJM West Hub 50 MW Same Day Option D21
+J19,PJM West Hub 50 MW Same Day Option D19
+BPC,Brent Crude Oil Calendar Spread Options
+DNM,Daily Crude Oil Calendar Spread (1 Month) Options
+WCI,Canadian Heavy Crude Oil Index (Net Energy) Average Price Option
+WB,WTI Crude Oil 2 Month Physical Spread Option
+WC,WTI Crude Oil 3 Month Physical Spread Option
+WZ,WTI Crude Oil 12 Month Physical Spread Option
+DTM,Daily Crude Oil Calendar Spread (2 Month) Options
+3W,NY Harbor ULSD Crack Spread Average Price Option
+ZB,RBOB Gasoline 2 Month Calendar Spread Options
+FM,NY Harbor ULSD Calendar Spread Option - 6 Month
+ZC,RBOB Gasoline 3 Month Calendar Spread Options
+3Y,RBOB Gasoline Crack Spread Average Price Options
+ZM,RBOB Gasoline 6 Month Calendar Spread Options
+ZAY,RBOB Gasoline 1 Month Calendar Spread Options
+FZ,NY Harbor ULSD Calendar Spread Option - 12 Month
+FB,NY Harbor ULSD Calendar Spread Option - 2 Month
+FC,NY Harbor ULSD Calendar Spread Option - 3 Month
+GXZ,European Gasoil Calendar (12 month) Spread Options
+GXA,European Gasoil Calendar (1 month) Spread Options
+RGE,RBOB Gasoline vs. Euro-bob Oxy NWE Barges (Argus) (1000mt) Average Price Options
+GXM,European Gasoil Calendar (6 month) Spread Options
+GXC,European Gasoil Calendar (3 month) Spread Options
+GXB,European Gasoil Calendar (2 month) Spread Options
+EH,Ethanol Options
+U03,Natural Gas Short-Term Options D03
+CD,Light Sweet Crude Oil (WTI) Daily Physical Option
+KD,Natural Gas (Henry Hub) Daily Physical Options
+C13,Crude Oil Short-Term Options D13
+U30,Natural Gas Short-Term Options D30
+AA,Brent Crude Oil 1 Month Spread Option
+U06,Natural Gas Short-Term Options D06
+C05,Crude Oil Short-Term Options D05
+G7,Natural Gas (Henry Hub) Last-day Financial 12 Month Spread Option
+U31,Natural Gas Short-Term Options D31
+CVP,Crude Oil Volatility Index (VIX) Options
+ODB,Brent Crude Oil Options
+C30,Crude Oil Short-Term Options D30
+C04,Crude Oil Short-Term Options D04
+9L,Brent Crude Oil Last Day Financial Calendar Spread (6 Month) Options
+U19,Natural Gas Short-Term Options D19
+C16,Crude Oil Short-Term Options D16
+C11,Crude Oil Short-Term Options D11
+IE,Natural Gas 5 Month Calendar Spread Option
+HHQ,Henry Hub Natural Gas Quadultimate Options
+C01,Crude Oil Short-Term Options D01
+NWE,European Naphtha Cargoes CIF NWE (Platts) Average Price Option
+C17,Crude Oil Short-Term Options D17
+U05,Natural Gas Short-Term Options D05
+IB,Natural Gas 2 Month Calendar Spread Option
+U13,Natural Gas Short-Term Options D13
+AM,Brent Crude Oil 6 Month Spread Option
+C19,Crude Oil Short-Term Options D19
+U29,Natural Gas Short-Term Options D29
+C28,Crude Oil Short-Term Options D28
+U18,Natural Gas Short-Term Options D18
+7M,Light Sweet Crude Oil (WTI) Financial 6 Month Spread Option
+IM,Natural Gas 6 Month Calendar Spread Option
+C08,Crude Oil Short-Term Options D08
+BDO,Brent 25-Day (Platts) Options
+C21,Crude Oil Short-Term Options D21
+U28,Natural Gas Short-Term Options D28
+C22,Crude Oil Short-Term Options D22
+C31,Crude Oil Short-Term Options D31
+U23,Natural Gas Short-Term Options D23
+C29,Crude Oil Short-Term Options D29
+7B,Light Sweet Crude Oil (WTI) Financial 2 Month Spread Option
+U25,Natural Gas Short-Term Options D25
+PU,"Panhandle Natural Gas (Platts IFERC) ""Pipe"" Option"
+C23,Crude Oil Short-Term Options D23
+U26,Natural Gas Short-Term Options D26
+C07,Crude Oil Short-Term Options D07
+U11,Natural Gas Short-Term Options D11
+U24,Natural Gas Short-Term Options D24
+AB,Brent Crude Oil 2 Month Spread Option
+U20,Natural Gas Short-Term Options D20
+U15,Natural Gas Short-Term Options D15
+U04,Natural Gas Short-Term Options D04
+7C,Light Sweet Crude Oil (WTI) Financial 3 Month Spread Option
+TZ,"Transco Zone 6 Natural Gas (Platts IFERC) ""Pipe"" Option"
+C15,Crude Oil Short-Term Options D15
+U09,Natural Gas Short-Term Options D09
+U07,Natural Gas Short-Term Options D07
+IAY,Natural Gas 1 Month Calendar Spread Options
+PY,"Chicago Natural Gas (Platts IFERC) ""Pipe"" Option"
+U10,Natural Gas Short-Term Options D10
+IC,Natural Gas 3 Month Calendar Spread Option
+C24,Crude Oil Short-Term Options D24
+C14,Crude Oil Short-Term Options D14
+U01,Natural Gas Short-Term Options D01
+C09,Crude Oil Short-Term Options D09
+U17,Natural Gas Short-Term Options D17
+C27,Crude Oil Short-Term Options D27
+RXY,RBOB Gasoline Crack Spread Options
+C10,Crude Oil Short-Term Options D10
+U14,Natural Gas Short-Term Options D14
+BDA,Brent 25-Day (Platts) Average Price Options
+C03,Crude Oil Short-Term Options D03
+U21,Natural Gas Short-Term Options D21
+9B,Brent Crude Oil Last Day Financial Calendar Spread (2 Month) Options
+9Y,Brent Crude Oil Last Day Financial Calendar Spread (12 Month) Options
+U22,Natural Gas Short-Term Options D22
+DOA,DME Oman Crude Oil Average Price Option Options
+9C,Brent Crude Oil Last Day Financial Calendar Spread (1 Month) Options
+7Z,Light Sweet Crude Oil (WTI) Financial 12 Month Spread Option
+6I,Natural Gas Winter Strip Options
+C26,Crude Oil Short-Term Options D26
+U08,Natural Gas Short-Term Options D08
+C06,Crude Oil Short-Term Options D06
+U16,Natural Gas Short-Term Options D16
+U12,Natural Gas Short-Term Options D12
+C02,Crude Oil Short-Term Options D02
+C18,Crude Oil Short-Term Options D18
+6E,Crude Oil Quarterly Strip Options
+U27,Natural Gas Short-Term Options D27
+C25,Crude Oil Short-Term Options D25
+AC,Brent Crude Oil 3 Month Spread Option
+C12,Crude Oil Short-Term Options D12
+U02,Natural Gas Short-Term Options D02
+AH,Dubai Crude Oil (Platts) Average Price Options
+G2,Natural Gas (Henry Hub) Last-day Financial 2 Month Spread Option
+BDE,Brent 25-Day (Platts) European Options
+9D,Brent Crude Oil Last Day Financial Calendar Spread (3 Month) Options
+IZ,Natural Gas 12 Month Calendar Spread Option
+PK,"Houston Ship Channel Natural Gas (Platts IFERC) ""Pipe"" Option"
+AZ,Brent Crude Oil 12 Month Spread Option
+C20,Crude Oil Short-Term Options D20
+1N5,Singapore Mogas 92 Unleaded (Platts) Average Price Option
+JA5,Japan C&F Naphtha (Platts) Average Price Option
+FG,Gulf Coast No. 6 Fuel Oil 3.0% (Platts) Average Price Options
+DAP,EIA Flat Tax On-Highway Diesel Average Price Options
+NVP,NY Ethanol (Platts) Average Price Options
+F8,European-Style Gasoil Options
+LSO,Low Sulphur Gasoil Average Price Options
+7HO,Gasoline Euro-bob Oxy NWE Barges (Argus) Average Price Options
+ERO,Emission Reduction Unit (ERU) Options
+RUE,Emission Reduction Unit (ERU) Serial Options
+OR,Regional Greenhouse Gas Initiative (RGGI) CO2 Allowance Options
+6U,In Delivery Month European Union Allowance (EUA) Options
+9G,In Delivery Month European Union Allowance (EUA) Serial Options
+PCL,Certified Emission Reduction (CERplus) Options
+CPE,Certified Emission Reduction (CERplus) Serial Options
+CO,Climate Action Registry (CAR) - non Vintage Options
+CAO,California Carbon Allowance (CCA) Options

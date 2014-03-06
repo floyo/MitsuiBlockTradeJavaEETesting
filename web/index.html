@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title></title>
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link href='http://fonts.googleapis.com/css?family=Satisfy|Fjalla+One|Open+Sans:400,600,700' rel='stylesheet' type='text/css'/>
+        <link href="resources/css/mainPageStyle.css" rel="stylesheet" type="text/css" media="all" />
+
+        <!--[if IE 6]>
+        <link href="default_ie6.css" rel="stylesheet" type="text/css" />
+        <![endif]-->
+    </h:head>
+    <h:body>
+        <div id="wrapper">
+            <div id="page" class="container">
+                <div id="content"> <a href="#" class="image-style"><img src="images/mcrm_logo.jpg" width="725" height="100" alt="" /></a>
+                    <div id="box1" class="post">
+                        <h2 class="title"><a href="#">Welcome to the MCRM-Block Trade Scraper Server</a></h2>
+                        <p><strong>MCRM-Block Trade Scraper</strong>, a JAVA Enterprise Edition System of <a href="http://www.mcrm.com/">MCRM</a></p>
+                    </div>
+                    <h:form>
+                        <h:outputText id="txt_count" value="#{counterBean.count}" />
+                        <p:poll interval="5" listener="#{counterBean.increment}"
+                                update="txt_count" widgetVar="myPoll" autoStart="false" />
+                        <a href="#" onclick="PF('myPoll').start();">Start</a>
+                        <a href="#" onclick="PF('myPoll').stop();">Stop</a>
+                    </h:form>
+                    <div id="box2">
+                        <h2 class="subtitle">Functions:</h2>
+                        <ul class="style1">
+                            <li class="first">
+                                <h3><em><img src="images/query.png" alt="" width="130" height="130" class="alignleft border" /></em>1. Trades Query</h3>
+                                <p>You can query trades within a date/time range by clicking on the link below. This link will redirect you to the web page where you can query trades.</p>
+                                <p><a href="tradeRangeGet.xhtml" class="button-style">GOTO Trades Query</a></p>
+                            </li>
+                            <li>
+                                <h3><em><img src="images/underConstruction.gif" alt="" width="130" height="130" class="alignleft border" /></em>Under construction!</h3>
+                                <p>Under construction!</p>
+                                <p><a href="#" class="button-style">Under construction!</a></p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="footer">
+                        <p>2013 Mitsui &amp; Co Commodity Risk Management Ltd. All rights reserved.</p>
+                    </div>
+                </div>
+                <div id="sidebar">
+                    <div id="logo">
+                        <h1><a href="#">MCRM-Block Trade Scraper</a></h1>
+                    </div>
+                    <div id="menu" class="box">
+                        <ul>
+                            <li><a href="tradeRangeGet.xhtml" accesskey="1" title="">Trades Query</a></li>
+                            <li><a href="chat.xhtml" accesskey="2" title="">Counter</a></li>
+                            <li><a href="#" accesskey="3" title="">Our Clients</a></li>
+                            <li><a href="#" accesskey="4" title="">About Us</a></li>
+                            <li><a href="#" accesskey="5" title="">Careers</a></li>
+                            <li><a href="#" accesskey="6" title="">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix">&nbsp;</div>
+        </div>
+    </h:body>
+</html>

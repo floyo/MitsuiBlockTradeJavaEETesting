@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Orc Server Trade_Range_Get</title>
+        <link href="http://fonts.googleapis.com/css?family=Bitter" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="resources/css/tradeRangeGetStyle.css" />
+    </h:head>
+    <h:body>
+        <!--        <h:outputStylesheet library="css" name="style.css"/>-->
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Trades Query</h2>
+        <br/><br/>
+ 
+        <h:form>
+            <h:outputText id="trade_txt_count" value="#{counterBean.count}" />
+            <p:poll interval="1" listener="#{counterBean.increment}"
+                    update="trade_txt_count" widgetVar="trade_myPoll" autoStart="false" />
+            <a href="#" onclick="PF('trade_myPoll').start();">Start</a>
+            <a href="#" onclick="PF('trade_myPoll').stop();">Stop</a>
+        </h:form>
+        <br/><br/>
+        <h:form id="form">
+
+            <!--            start datetime-->
+            <p:outputLabel value="Start Date/Time:" for="startDatetime"/>
+            <p:calendar id="startDatetime" value="#{tradeRangeGetController.startDatetime}"
+                        pattern="yyyy/MM/dd HH:mm:ss" required="true" />
+            <p:message for="startDatetime" id="startMessage" />
+            <br/>
+            <!--              end datetime-->
+            <p:outputLabel value="  End Date/Time: " for="endDatetime"/>
+            <p:calendar id="endDatetime" value="#{tradeRangeGetController.endDatetime}"
+                        pattern="yyyy/MM/dd HH:mm:ss" required="true" /> 
+            <p:message for="endDatetime" id="endMessage" />
+            <!--        market-->
+            <br/>
+            <h:outputLabel value="Market: " for="market"/>
+            <h:selectOneMenu id="market" value="#{tradeRangeGetController.selectedMarket}" >
+                <f:selectItems itemLabel="#{market.label}" itemValue="#{market}"
+                               value="#{tradeRangeGetController.markets}" var="market" />
+            </h:selectOneMenu> 
+            <!--        kind-->
+            <br/><br/>
+            <h:outputLabel value="  Kind:  " for="kind"/>
+            <h:selectOneMenu id="kind" value="#{tradeRangeGetController.selectedKind}">
+                <f:selectItems value="#{tradeRangeGetController.kinds}" var="kind"
+                               itemLabel="#{kind.label}" itemValue="#{kind}"/>
+            </h:selectOneMenu>
+            <br/><br/><br/><br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p:commandButton value="Query Trades" actionListener="#{tradeRangeGetController.sendTradeRangeGetMessage()}"
+                             id="queryTrades" ajax="false"/>
+        </h:form>
+    </h:body>
+</html>
+
